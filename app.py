@@ -206,15 +206,6 @@ class Chatbot():
 
                 submit.click(self.chat, inputs=[message, state, module, model], outputs=[chatbot, state])
                 message.submit(self.chat, inputs=[message, state, module, model], outputs=[chatbot, state])
-                
-                gr.Examples(
-                    examples=[
-                    'Answer the following question, explain your reasoning:\n',
-                    'Answer the following question, explain your reasoning, use latex format:\n',
-                    'Answer the following multiple choice question, explain your reasoning:\n',
-                    ],
-                    inputs=message
-                )
             
             with gr.Tab("Search"):
 
