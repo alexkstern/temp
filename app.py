@@ -243,7 +243,7 @@ class Chatbot():
                 message.submit(self.chat_vanilla, inputs=[message, vanilla_state, model], outputs=[vanilla_chatbot, vanilla_state])
 
 
-        block.launch(debug=True, share=False)
+        block.launch(debug=True, share=True)
         
 
 if __name__ == '__main__':
