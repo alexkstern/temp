@@ -1,0 +1,5 @@
+data/
+resources.txt
+*.pdf
+__pycache__/
+.env

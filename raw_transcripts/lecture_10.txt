@@ -1,0 +1,2081 @@
+Is.
+
+This gone?
+
+Can you hear me.
+
+Out the back?
+
+Yes.
+
+Speak up.
+
+Raise the volume.
+
+And.
+
+I'll just speak louder.
+
+I can't see the volume switch on this.
+
+Is it actually coming through the thing?
+
+Kind of.
+
+Or I'll just try and speak Labs.
+
+Or is it?
+
+I'm not here to help you understand how the brain
+
+helps you love someone like this.
+
+We're here to try and understand a bit about how
+
+we might try and study emotions in the brain.
+
+And to do that, we need to define emotions in
+
+a way that make them scientifically tractable.
+
+And this slide tries to help you do that.
+
+I want to consider emotions that are consistent and discrete
+
+responses to an event of significance.
+
+We need something that's consistent.
+
+We need them to be discrete if we're trying to
+
+understand how they represent in the brain.
+
+I will argue that emotions are important because they help
+
+direct an appropriate course of action.
+
+The most obvious thing in this case is threat.
+
+If you're under threat, you want to fight.
+
+You want to flee.
+
+You need to elevate your blood pressure so that your
+
+body is more prepared.
+
+You need to change your galvanic skin resistance.
+
+You actually need to redirect the blood supply to your
+
+body.
+
+You need to do a bunch of things that are
+
+associated with sympathetic arousal.
+
+It makes sense.
+
+Then, if you start to feel an emotion of fear
+
+that that is associated with a physiological response.
+
+But emotions are also important because they help organise other
+
+aspects of cognition, not just make your body ready for
+
+a particular course of action.
+
+They help you maybe remember things that help you pay
+
+attention to particular aspects of your surroundings.
+
+In humans, we know that emotions are associated with feelings
+
+that might feel sad.
+
+It's a bit hard to ask an animal what feelings
+
+they have.
+
+So we need to, when we study and want to
+
+understand the neuroscience of emotions, we need to examine those
+
+emotions or those aspects of emotions which are reportable, not
+
+those which are subjective and unavailable to scientific analysis.
+
+And I should just mention here that you find in
+
+the literature the word affect and emotion or affective neuroscience
+
+used interchangeably, and it's a little bit discombobulating for the
+
+first few times to read that.
+
+But you just need to think of ethics and emotion
+
+as effectively meaning the same thing.
+
+So there are many ways of describing emotions.
+
+I like this and it is a very influential model
+
+of how emotions can be represented.
+
+This model was developed by asking several hundred, maybe even
+
+thousands of participants in the early 1980s to describe the
+
+relationships between different named emotions, which we'll see in a
+
+second.
+
+And effectively, the mathematical fallout of that experiment was that
+
+most emotions or most emotional states that people recognise could
+
+be described as lying along a space in a space
+
+that's formed by two axes, the two dimensional space.
+
+And those two axes are one of arousal.
+
+So you can vary between being aroused and being sleepy
+
+and one of balance that is between pleasure or positive
+
+affect and misery or negative affect.
+
+So these two axes, it turns out, as sufficient to
+
+describe or at least to place most of the emotional
+
+states that we encounter.
+
+So if we put the various words that were used
+
+in this analysis onto this space, they all kind of
+
+make sense.
+
+So, for example, when you have positive valence and high
+
+arousal, emotions that are associated with those two things, for
+
+example, excited or astonished or delighted and depending on the
+
+relative balance of violence and arousal, you lie at different
+
+points in this.
+
+Similarly, if you have positive violence but low arousal, then
+
+you might have things like serene content at ease, things
+
+that are associated with low arousal but still positive.
+
+So they lie down here, low valence, sorry, low arousal
+
+and negative valence, on the other hand, means things like
+
+sad, gloomy, depressed, those kinds of words.
+
+And finally, high arousal and negative valence means things like
+
+annoyed, afraid, fear.
+
+So it makes sense, the space makes sense, and it's
+
+become a very influential and powerful model for trying to
+
+explain the relationships between different emotions.
+
+And we'll be getting back to that in a in
+
+a few slides time.
+
+What I would like to provide you, though, with the
+
+caveat is that it is still a matter of substantial
+
+debate about whether emotions in the brain represented along these
+
+two axes.
+
+In other words, maybe you have one brain system that
+
+focuses on arousal, another one that focuses on violence.
+
+And together these two brain systems, for example, may represent
+
+all the possible emotions or whether you have dedicated brain
+
+systems for particular emotional states.
+
+So those are the two contradictory hypotheses.
+
+The evidence is still not in about which one describes
+
+brain function better.
+
+But this is a convenient way to think about the
+
+different emotions and the relationship between them.
+
+The study of emotions is had in cognition, and psychology
+
+has had a long and checkered history.
+
+Often called the folk perspective of emotions is the following.
+
+There's a stimulus out there in the world.
+
+We perceive it that then gives that perception and gives
+
+rise to some form of emotional response.
+
+And that emotional response in turn drives physiological actions like
+
+increased blood pressure.
+
+It's not to be pejorative to say this is a
+
+folk explanation, but this is the typical one that we
+
+might if we introspect.
+
+Think about what happens.
+
+This folk, so-called folk was challenged in the late 19th
+
+century.
+
+And indeed, a very popular theory from William James and
+
+Carl Long, which I'll describe in a second, but which
+
+is nicely described in this paragraph, not all of which
+
+are read out.
+
+I just want to highlight a particular sentence.
+
+If I begin to tremble because I am threatened with
+
+a loaded pistol.
+
+That first person is to carry me.
+
+Does terror arise?
+
+And is that what causes my trembling confrontation of the
+
+heart and confusion of thought?
+
+Or are these bodily phenomenon produced directly by the terrifying
+
+cause so that the emotion consists exclusively of the functional
+
+disturbances in my body?
+
+This is a long describing alternative way of looking at
+
+how we start to experience the emotional event.
+
+And in this kind of model, then the stimulus, for
+
+example, a loaded pistol is perceived by axons of the
+
+cerebral cortex.
+
+That perception, in turn drives a physiological response, trembling, increased
+
+blood pressure.
+
+And the emotion that you experience is effectively you reading
+
+out that visceral response with your brain.
+
+I trembled, therefore, I am afraid.
+
+A very popular and and still a model with some
+
+some evidence we process it's the planted in the early
+
+20th century by Canon Bard who suggested that instead of
+
+this model which seemed to be inconsistent with some of
+
+the measurements they were making instead the stimulus, this motor
+
+pistol may still be perceived by the action of the
+
+cerebral cortex, but then its perception of its action in
+
+the cerebral cortex drove two distinct pathways.
+
+In one pathway we get the emotional response and in
+
+the other pathway we get the physiological response.
+
+So this is kind of a parallel description, that descriptor
+
+of emotions and the associated physiological responses arising in parallel
+
+circuits.
+
+And there's some evidence for and against this hypothesis as
+
+described here.
+
+Finding this insufficient to describe some of the experiments of
+
+the kind that you would only probably do in the
+
+1970s sector.
+
+And seeing I came up with a slightly different way
+
+of describing this process that is that that stimulus to
+
+load a pistol again leads to perception again in the
+
+cerebral cortex.
+
+But this then drives a physiological response and there is
+
+a contextual modulation of that and those things are read
+
+out to provide the motion.
+
+So for example, in the famous experiment conducted here, participants
+
+were given an injection of adrenaline, which increases blood pressure.
+
+And then were asked to describe their emotional state.
+
+And some partisans describe it as being excited and aroused.
+
+And others did not.
+
+And it turned out that the particular label, the emotional
+
+state that the people gave, depended on the context in
+
+which they were provided.
+
+That arousing steam was that increase in blood pressure.
+
+So the blood pressure itself was actually generating.
+
+You did seem to be reading that out as a
+
+kind of emotional state, but the label that you attached
+
+to it was that dependent on the context that you
+
+found yourself in.
+
+So this is where we found ourselves in the late
+
+1970s and 1980s.
+
+Not much has changed too much because we haven't had
+
+a huge amount of evidence to decide among these different
+
+alternatives.
+
+It turns out it's quite difficult to study the analysis
+
+of emotions in the brain.
+
+And indeed, almost all the work that we have or
+
+the understanding that we have come from the study of
+
+a very particular brain area, the amygdala.
+
+And we'll be spending a lot of this lecture on
+
+that area to give you a bit of context for
+
+understanding the brain of the amygdala.
+
+I need to introduce you to the limbic system hypothesis.
+
+Has anyone come across the limbic system before?
+
+I presume you have.
+
+Who has not?
+
+Is a few of you who has as a few
+
+more of you, would someone care to describe to me
+
+what you understand the limbic system to be?
+
+The description on here without reading that out.
+
+Back when you when you were talking about the Olympics
+
+this summer, when you encountered it, what did you imagine
+
+it to be?
+
+Yes.
+
+You know.
+
+So the general idea is the limbic system is this
+
+kind of state of something that drives your emotional states.
+
+The kind of larger idea is that the limbic system
+
+that's common, by the way, and if you do study
+
+clinical psychology, you find a lot of clinical psychology still
+
+uses this, what shall we say, simplistic description of the
+
+brain to understand some of the descriptions that I want
+
+to make.
+
+The kind of larger idea is that the limbic system
+
+seemed to evolve long ago.
+
+It's part of the history of our evolution and that
+
+during evolution we have supplanted or added to this limbic
+
+system things like the cerebral cortex and the expansion of
+
+the cerebral cortex in humans.
+
+The idea being that this ancient reptilian brain, which has
+
+continued to be there even as we have evolved and
+
+added in all these other systems.
+
+So the kind of first idea that you have sometimes
+
+the limbic system is this is this ancient pathway or
+
+part of the brain that evolved in reptiles and lower
+
+animals is preserved, still is unconscious, or we have no
+
+access or awareness of its activity, but it drives our
+
+emotions and cognitions.
+
+That, I think, is the kind of idea of the
+
+limbic system that we usually have.
+
+I think know, by the way, that the limbic system,
+
+which is a circuit which includes the hypothalamus, anterior thalamus,
+
+the finger gyrus and we'll get on to that in
+
+the next slide, has over the years had things attached
+
+to it.
+
+So for example, the amygdala, the septum, the orbitofrontal cortex
+
+and portions of the basal ganglia, turns out, as we
+
+see in the next slide.
+
+That first time that basically the limbic system now encompasses
+
+much of the brain and I think its explanatory power
+
+is therefore substantially reduced.
+
+There's other reasons to think that this explanatory power is
+
+not very strong, and that is that actually the idea
+
+that we have evolved on top of this limbic system
+
+is not really a correct reading of evolution.
+
+So this is a graphical description.
+
+By the way, I encourage you to read this article
+
+because it has perhaps the best I've ever seen.
+
+Your brain is not an onion with a tiny reptile
+
+inside.
+
+The classic view of the limbic system.
+
+It's kind of described amber here.
+
+The idea is that evolution is the fishes evolve into
+
+rodents, evolve into humans, and that fishes, which have this
+
+pronounced limbic system, which is still substantially preserved in mass
+
+and then only slightly elaborate and then slightly inverted, sorry,
+
+and then further elaborated in humans that this limbic system
+
+we've inherited from this ancestor.
+
+That's not how evolution works.
+
+We are not so linearly related.
+
+We are not the end product of the chain of
+
+evolution whose goal is to create stupid human beings.
+
+Instead, evolution is a series of parallel processes, and indeed
+
+we diverge from the evolutionary lineage that links us with
+
+fishes.
+
+Before my did.
+
+And indeed, if you look at the brains of each
+
+of these three different species, species, humans and mice, you
+
+actually find shared components there in all the systems more
+
+pronounced or less pronounced in different species, but still same
+
+components.
+
+So the idea that this limbic system is something that
+
+was the kind of entirety of the cognitive system of
+
+teachers and sits there in that sort of unconscious awareness
+
+in ourselves is not really an accurate description of evolution
+
+nor of the brain structure of these animals or ourselves.
+
+So for that reason, I would argue that the idea
+
+of thinking the limbic system has only limited value.
+
+Nevertheless, this is the limbic system and in particular the
+
+circuit here, which you can read about in your letter.
+
+But the idea here is that there's a circuit, as
+
+I said before, the single cortex, the hippocampus, the hypothalamus
+
+and the anterior thalamus missing the four words or working
+
+together in a circuit to produce some emotional state.
+
+This was the state of play in the 1970s, 1980s.
+
+It's now been largely supplanted mainly by studying particular brain
+
+areas such as the amygdala.
+
+And and we'll go through that in the next set
+
+of the lecture.
+
+Before I get on to that, I just want to
+
+make a digression into understanding emotions through emotional phases, because
+
+most of us communicate our emotions through our facial expressions,
+
+and most of us understand the emotions of others by
+
+looking at this facial expressions.
+
+This seems to be the major route through which we
+
+communicate emotions, and also animals can also recognise and communicate
+
+emotions through similar facial expressions.
+
+Turns out that you can actually train computer programs to
+
+recognise categorise very accurately the emotions that people might be
+
+experiencing by simply reading the visual image of their face.
+
+This was now a few years ago.
+
+This particular one technology is substantially improved, but effectively the
+
+kinds of neural networks that bound artificial intelligence that are
+
+bound in our world now are quite capable of using
+
+images of you through your video camera and your computer
+
+or your phone to read, or at least try and
+
+classify your emotional state.
+
+And they do this, unfortunately, very accurately, not always accurately,
+
+but pretty accurately.
+
+That is, there is a set of facial configurations that
+
+we all seem to share when we experience certain emotions.
+
+We've actually known that for a long time.
+
+It's these lovely photos doing the work of Titian in
+
+the mid 19th century who discovered one of the very
+
+first uses of electricity in experimental science discovered that you
+
+can actually create facial expressions on individuals simply by stimulating
+
+particular groups of muscles on the face.
+
+So these in this picture here, this is Dustin.
+
+Again, we don't really do experiments like this anymore, unfortunately.
+
+Maybe.
+
+But these are little electrical stimulating devices being attached to
+
+the muscles.
+
+I told you many lectures ago, the muscles of the
+
+other electrically excitable cell in the body of the nerve
+
+cells.
+
+And it turns out that by passing current into muscles,
+
+we cause them to contract.
+
+And if we cause these contractions in particular muscle groups
+
+in the face, we can provide these things that look
+
+like almost realistic expressions, fear, smiles, etc..
+
+The point I want you to take from this is
+
+that the organisation of the facial muscles seems to be
+
+such that it simplifies and allows expression of emotion through
+
+expressions.
+
+We seem to have developed our face muscles for that
+
+purpose.
+
+Sometime later, Ekman and colleagues discovered that there was actually
+
+a proposal and then provided evidence for the hypothesis that
+
+there are actually universal emotional faces that we can all
+
+recognise, and that we may all just claim that largely
+
+the these emotional faces, the six faces.
+
+So the universally accepted is universal and another couple that
+
+are more controversial.
+
+If you look at these posed actor that faces anger,
+
+fear, disgust, surprise, happiness, sadness.
+
+You should or maybe not, but you should probably recognise
+
+the same expressions and the emotions in those expressions in
+
+work that my wife just published actually yesterday in the
+
+Proceedings of the National Academy of Sciences.
+
+She challenges this distinction.
+
+Turns out that actually these posed acted out expressions are
+
+not very good ways of testing, emotional recognition, and that
+
+if we allow each other to evolve the expressions in
+
+images, devolve the expressions that we think relate to anger
+
+or fear or sadness.
+
+It turns out we can evolve very divergent expressions.
+
+There is many commonalities, but there's a lot of differences
+
+such that two individual people may recognise the one face,
+
+for example, this one here as two different emotions fear
+
+or surprise might be.
+
+However, the reason that Ackman's work became so popular and
+
+influential is that these studies conducted in groups of people
+
+who had had limited cultural contact with other parts of
+
+the world.
+
+In this case, the tribesmen of Papua New Guinea, a
+
+small island just north of the Queensland in Australia, very
+
+densely vegetated, a lot of hills and valleys.
+
+A number of tribes within them who had had very,
+
+very limited contact with any part of the Western world,
+
+even in the 1970s.
+
+And this famous study sought to see whether or not
+
+the facial expressions they produce were similar to those that
+
+we in the West might produce for similar kinds of
+
+emotional states.
+
+And the conclusion was that they were indeed suggesting that
+
+it's not just about cultural conformity or spread of between
+
+different cultures.
+
+That leads us to a commonality in our facial expressions
+
+and emotions, but actually that these are something innate, all
+
+inbuilt in humans.
+
+If we try to put these universal of emotions on
+
+that axis of arousal and violence that we described earlier,
+
+we find that actually, somewhat surprisingly, almost all of them
+
+are associated with higher arousal.
+
+I'm not exactly sure why this is.
+
+I have a feeling that these emotions that I'm feeling,
+
+the emotions that are associated with high arousal that are
+
+most important for us to communicate and for us to
+
+respond to.
+
+It also turns out that the way that we make
+
+these expressions depends on somewhat different brain systems, or at
+
+least a couple of different brain systems.
+
+That's, well, well-established in looking at people with small brain
+
+lesions in appropriate parts of the brain.
+
+And you can see here the two types of emotional
+
+paralysis that you can see in people with these small
+
+lesions, one brain called facial motor paralysis, that's one on
+
+the left here.
+
+The other emotional motor paralysis and emotional motor paralysis.
+
+People have very much difficulty forming the actual expression associated
+
+with an emotion.
+
+In face of murder paralysis.
+
+Since dead people have difficulty in forming emotions if they
+
+are asked to generate that emotion without the appropriate stimulus.
+
+Whereas if they had provided an appropriate stimulus, they can
+
+actually produce a smile.
+
+And the inference from this work is that there's two
+
+strains of facial emotion, a volitional system and law of
+
+Matic system.
+
+And the automatic system is one that includes the hypothalamus,
+
+the amygdala in the frontal cortex, i.e. the limbic system
+
+or its components.
+
+So I want to introduce that because this is the
+
+normal way that we trying to out someone else's emotional
+
+state is to look at the facial expressions or to
+
+communicate.
+
+The emotional state is through that.
+
+And we're going to spend a little bit of time
+
+in the next part of the lecture going through some
+
+of the mechanisms that might be important in trying to
+
+bring these two things together the recognition of textual emotions
+
+and the production of emotion through responses.
+
+So we mentioned the amygdala before.
+
+It's part of the enlarged to kind of larger limbic
+
+system, not the original one.
+
+It was actually discovered in the late 1930s, early 1940s
+
+by Coover and Bucy, who did some experiments on monkeys
+
+in which they removed large fractions of the temporal lobes.
+
+And they discovered very complex behavioural changes in these animals,
+
+including noses, sexuality, inappropriate eating and the lack of fluency
+
+in the constellation of these symptoms is often called Clifford
+
+syndrome.
+
+Now these were very large lesions appropriate to the surgical
+
+techniques at the time.
+
+It took several decades before more improved surgical techniques could
+
+remove smaller parts of the brain.
+
+And asked the same kind of questions.
+
+And indeed, it was Larry Weiss Prince, who's a very
+
+famous and important neurosurgeon, who discovered that by removing a
+
+little bit of the brain called the amygdala, amygdala means
+
+almond.
+
+So it's an almond shaped part of the brain.
+
+But by removing this component, you could reproduce the emotional
+
+symptoms that these animals had experienced.
+
+So this part of the brain, the amygdala from then
+
+on became a very much of the focus for trying
+
+to understand how emotions are represented in the brain.
+
+The other paradigm I want to introduce you to is
+
+that that's been popularised by Joe LeDoux.
+
+Joe to do is at New York University.
+
+He developed and continues to use this paradigm called conditioned
+
+fear.
+
+Now.
+
+I saw Joe.
+
+I invited Joe to give a lecture once, and at
+
+the end of the lecture, I'm about to describe to
+
+you the condition of the part.
+
+On the end of the lecture, someone asked, Have you
+
+ever thought of doing another type of experiment rather than
+
+this conditioned fear?
+
+And his answer was briefly, no.
+
+He said no.
+
+And I get asked that question all the time.
+
+The reason I like this paradigm and why I continue
+
+to use it is that I can predict now the
+
+experience of every animal.
+
+I don't need to do the actual behavioural experiment any
+
+more.
+
+This is such a reproducible behavioural experience experiment that it's
+
+no longer necessary to conduct experiments on animals to actually
+
+look at the behaviour itself.
+
+You can just assume that that is what would have
+
+happened and conduct other measurements that would look at the
+
+neuroscience involved in that.
+
+But conditioned fear in paradigms in love cells which are
+
+incredibly powerful, are very simple.
+
+The basic idea is to put an animal, a rat
+
+usually, or a mouse in a little box, and that
+
+box will have a little grid on the floor and
+
+a little speaker on the wall.
+
+And through the grid, you can pass the small amount
+
+of current that's aversive to the animal, although not actually
+
+painful.
+
+And if you put current through that grid, the animal
+
+will generally freeze.
+
+It's an aversive stimulus, a potentially threatening stimulus.
+
+Now, if you play the sound in of itself before
+
+you without pairing it with that electric stroke, the animal
+
+generally maybe the first time and he was like, what
+
+the hell is going on there?
+
+But very rapidly habituate and then ignores the sound because
+
+it's a neutral, unthreatening stimulus.
+
+However, if you pair or associate that sound with the
+
+electric shock over several trials, the animals then replay the
+
+sound by itself.
+
+The animal is now displays just the reactions that it
+
+would have otherwise displayed to the electric shock.
+
+In other words, it freezes.
+
+So this is a condition.
+
+It's a classic paradigm.
+
+It's been used to elucidate the role of the media.
+
+It's not necessary to do this only in mice or
+
+rats.
+
+You can also do this in humans.
+
+I love this video.
+
+I'm dying to know.
+
+That we have.
+
+Period of classical conditioning I'm trying to get.
+
+This will be the same thing.
+
+And then I've got experience with this.
+
+We learn the relationship.
+
+Between a sounds and it's got more of a super.
+
+Duper so that we can take for are going to
+
+look like that.
+
+Mastery works so you don't need to use rats.
+
+You can use humans.
+
+Let down some ethics people.
+
+Okay.
+
+So this.
+
+Yes, it's a very good question.
+
+And actually fear is the wrong this is what's what.
+
+The conversation goes around every about ten or 15 years.
+
+We just keep on going around the circles.
+
+The question is, is there an emotional response or is
+
+the animal responding to the potential threat?
+
+Okay, so distinguishing between those two hypotheses is almost impossible.
+
+So there's a subjective ness to fear as a concept
+
+that we can't explore in a rat.
+
+So this goes around and around.
+
+Is is fear simply described as a response to a
+
+threat or is it something in addition to that?
+
+And unfortunately, there's been no resolution of that particular discussion.
+
+You do know that the animal is exhibiting all the
+
+signs of having had of of experiencing a potential threat.
+
+Now, whether that is associated with fear in and of
+
+itself is another question.
+
+So it is a good question and unresolved still.
+
+And it goes around this discussion goes around in the
+
+in the field every ten or 15 years because it
+
+threatens the threat of external stimuli.
+
+So the internal response.
+
+So the amygdala is central to to, as Joe has
+
+worked so extensively, is essential to understanding this responses they
+
+may do is actually have quite a complicated nucleus.
+
+It's consists of at least 13 subdivisions.
+
+We tend to ignore all of them except for two
+
+or three.
+
+The two or three that we're usually interested in, the
+
+lateral nucleus, the basal nucleus and the central nucleus.
+
+Usually, indeed, we actually ignore the base of the nucleus
+
+and just think of the lateral, the central nucleus.
+
+The lateral nucleus is where all this sensory input comes
+
+into the amygdala from the cerebral cortex and from other
+
+parts of the brain.
+
+And central nucleus is the output of the one that
+
+goes in control.
+
+The physiological responses.
+
+There are other outputs from amygdala, from the other parts
+
+of it, which instead of controlling physiological responses, actually project
+
+back to, for example, the cerebral cortex.
+
+And we'll go through that briefly at the end in
+
+humans, the images found around here.
+
+In rats.
+
+It's a slightly different location.
+
+So this schematic turns the outcome of two or three
+
+decades of work from Joe and others, which tells how
+
+you might generate this condition.
+
+Fear response.
+
+We think of the condition stimulus as a sound stimulus.
+
+It's conditioned because it's otherwise neutral, and then it gets
+
+conditioned and then there's an unconditioned stimulus or us, which
+
+is the future.
+
+It's unconditioned.
+
+In other words, the response to that stimulus is an
+
+innate response is an instinctive response you don't have to
+
+associate to get that response.
+
+If you play the conditioned stimulus and the unconditioned stimulus
+
+together, sound and food shock, the signals from these two
+
+things are coming through the auditory pathway and through the
+
+similar sensory pathways.
+
+And these signals converge at the level of the lateral
+
+nucleus in the amygdala.
+
+So you have sound inputs coming through, somatic sensory inputs
+
+coming through together.
+
+These can now work together to find mechanisms of synaptic
+
+plasticity to now convert that or allow that sound stimulus
+
+to cause the same physiological response to the unconditioned stimulus
+
+would have otherwise.
+
+And then that output is then provided by the central
+
+nutrients.
+
+Now, you'll note here that there's actually several potential sources
+
+of input to the amygdala, including the cerebral cortex, but
+
+also subcortical areas such as Solomon's.
+
+And it turns out that that's quite important for understanding
+
+some of the reactions that we animals have to people
+
+or other threatening stimuli.
+
+So, for example, one of the early studies from Joe
+
+showed that auditory cortex was not required for responding in
+
+this condition fear, paranoia.
+
+So if you remember before, when we were talking about
+
+versus theories of emotional response, the idea was that you
+
+perceive the stimulus with your cerebral cortex, and then that
+
+generates that cascades through into other events.
+
+What does work started is that at least in rodents
+
+and as we'll see in a minute or so in
+
+humans.
+
+You don't need the cerebral cortex to respond to these
+
+threatening events, suggesting that some of these threatening events could
+
+be communicated to the amygdala via pathways that have no
+
+access to perception or cognition themselves that are below the
+
+level of awareness.
+
+The particular experiments here were to lesion the bit to
+
+the auditory cortex of the retinas, the way the auditory
+
+cortex is in the rat.
+
+And then to put them in this condition fear paradigm
+
+and to measure several variables, including the freezing response, but
+
+also things like blood pressure increases and so forth, and
+
+become long story short.
+
+Effectively, all the components of the threat, response or fear
+
+response in rats were preserved in those animals that had
+
+auditory cortex and didn't have auditory cortex.
+
+In other words, cortex was not required for the animals
+
+to exhibit this condition.
+
+Fear that suggests that subcortical pathways are sufficient.
+
+And indeed, the dominant hypothesis from Joe and others now
+
+is that there are two votes for sensory input to
+
+the amygdala.
+
+One that goes through the thalamus and one that goes
+
+through the cerebral cortex.
+
+So for example, in human brain, the visual thalamus is
+
+here, this blue blob.
+
+The visual cortex is here.
+
+The back of the brain and the amygdala.
+
+It's here down the temporal lobe.
+
+There are some either direct or indirect inputs from the
+
+thalamus to the media, as well as inputs from the
+
+visual cortex, but indirect and direct.
+
+And the idea here is the central idea here is
+
+that for some kinds of stimuli that you need, a
+
+rapid response to those stimuli might be included in this
+
+pathway that simply requires the farmers.
+
+So, for example, snakes on a path in front of
+
+you, you don't want to hit this guy.
+
+It was like a snake.
+
+Maybe it's a tiger snake round snake.
+
+Instead, you want to get out of the way.
+
+Actually, literally, you should freeze.
+
+Many people try to get out of the way, but
+
+if you get out of the way, they'll come for
+
+you actually should just freeze.
+
+That's one of the life tips you learn in Australia.
+
+So the snake is there.
+
+Maybe the signals for the snake were actually passed through
+
+this thalamic pathway, this rapid pathway, the middle rather than
+
+through the cerebral cortex, requires a perception that you can
+
+react to that snake without actually having perceived it yourself.
+
+It's sometimes called the high road and the low road,
+
+the low road from the thalamus to move to the
+
+highway through the sensory cortex.
+
+And that's basically what I've just told you.
+
+In humans, there is some evidence, as in rodents, there
+
+is some evidence that the pathways are sufficient to activate
+
+the amygdala.
+
+This is a fascinating study of a person with blind
+
+sight.
+
+We discussed neglect, a couple of lecture lectures, go blind
+
+sites of different phenomena.
+
+If you lose part of your central cortex, you become
+
+blind spot that you're not unaware of something like this.
+
+You neglecting something be actually, at least according to people
+
+who have these lesions you experience as an absence, a
+
+blackness.
+
+Basically in the US, in that part of the visual
+
+world, people with lesions, the visual cortex report not being
+
+able to perceive anything in the appropriate part of the
+
+visual world.
+
+So, for example, if your lesion on the left part
+
+of your visual cortex, you won't see anything on the
+
+right path of your visual field.
+
+Nevertheless, people with these lesions can still respond appropriately, sometimes
+
+to visual objects presented in that blind part of the
+
+visual field.
+
+A fascinating phenomena.
+
+For example, they can actually navigate through obstacles in a
+
+corridor or tell or actually respond reliably and see what
+
+orientation opinions operate or mind to assign.
+
+In addition, if you put someone in the scanner and
+
+MRI scanner and conduct measurements whilst this person's images in
+
+this case facial images of facial expressions, you can find
+
+that in this part of the brain where the least
+
+means this is a simple cortex is lesion.
+
+The image was nevertheless activated by in this case, people
+
+faces.
+
+So for some reason or some pathway that bypasses visual
+
+cortex, the primary visual cortex allows people to actually get
+
+see moving to the Middle East.
+
+Similarly, in humans with an intact amygdala, you can do
+
+experiments such as backward masking this as you rapidly present
+
+a stimulus and mask it with noise.
+
+People report not being able to see the stimulus that
+
+was presented briefly present a stimulus.
+
+Turns out if you do that and you construct the
+
+stimulus appropriately, you can find different.
+
+You can find responses in the amygdala in mind that
+
+seem to resemble fearful faces.
+
+This is also evidence that you do not need perception
+
+or cognition to actually activate.
+
+So this is evidence that even in humans, as in
+
+rats, there is some subcortical pathways as well as cortical
+
+pathways.
+
+And indeed, if you look at facial mimicry, when we
+
+see people make expressions, we tend to make those expressions
+
+ourselves.
+
+That's called facial mimicry.
+
+You find that facial mimicry is intact in people with
+
+blind side.
+
+Again, further evidence that you don't need to perceive things
+
+to be able to detect and respond to emotions.
+
+There is some.
+
+Caveats.
+
+This thing you should be aware of.
+
+For example, there are very few people in the world
+
+who have had lesions to the amygdala in the one
+
+or two cases that have been studied does not seem
+
+that this is 100% necessary to respond to emotions.
+
+But bear in mind, as we talk about methods lecture
+
+that people with lesions can find compensatory pathways and things
+
+do change.
+
+So it's not clear whether or not these kinds of
+
+responses are true in intact humans.
+
+I want to spend a couple of minutes just illustrating
+
+to you that these emotional networks, such as the amygdala,
+
+impact not only the physiological output, but also other cognitive
+
+processing in the brain.
+
+It turns out actually, that the amygdala is either directly
+
+or indirectly connected to a huge amount of the brain
+
+striatum prefrontal cortex, medial temporal lobe, cerebellum, pixabay neocortex, etc.
+
+There's plenty of opportunity for the amygdala to guide our
+
+cognition via emotional responses, in instance of time.
+
+Because I would just like to introduce something for a
+
+few minutes at the end of this lecture.
+
+I'll skip over these two little slides, but you can
+
+go back to look at them at your leisure.
+
+I want to focus on this one, which describes an
+
+experiment that could have already really been done once or
+
+twice in our history.
+
+As you all know, on September the 11th, 2001, perhaps
+
+before you were born, the Twin Towers in New York,
+
+the World Trade Centre, were destroyed in a terrorist attack.
+
+This was a very emotional experience for many people.
+
+My wife, for example, was based in New York University
+
+at the time.
+
+She stood on the top of the building and watched
+
+those towers come down.
+
+She still remembers that day very clearly.
+
+The question that was asked in these experiments by researchers
+
+whose prioritisation might be slightly strange was the day after
+
+2001 researchers in Duke University.
+
+Contact of Duke students.
+
+The Duke is not New York itself.
+
+Nevertheless, everyone of us was kind of watching these these
+
+attacks and ask very simple questions.
+
+Do you remember what do you remember about the events
+
+on September 11th?
+
+And what do you remember about other unrelated events?
+
+The idea is that these events on September 11th might
+
+be associated with flashbulb memories, things that are emotionally salient.
+
+And the question is, do these emotionally salient events last
+
+longer than nonstate ones, and do they have different content,
+
+the most salient ones?
+
+The answer to the first question is yes.
+
+They seem to be more vivid for longer than non
+
+emotionally salient events.
+
+So these on this graph on the left here for
+
+224 days after September 11th, these ratings were made, some
+
+people for September 11th or other events.
+
+You can see that the vividness for the subjective experience
+
+of remembering events around September 11th was much greater than
+
+that for other events, suggesting that emotion colours, memory, makes
+
+things vivid, makes things more memorable.
+
+On the other hand, the actual number of details that
+
+we were able those people were able to remember about
+
+the 11th and other events didn't seem to be much
+
+different.
+
+So what's the vividness and therefore importance of that memory
+
+for people was higher.
+
+The actual structure, the clarity of that memory was not
+
+necessarily higher.
+
+This has importance for understanding things like, for example, eyewitness
+
+testimony.
+
+So what I wanted to bring you here is that
+
+clearly emotion does colour memory does it in complex ways.
+
+Does this suggest that those circuits within the amygdala and
+
+similar structures influence aspects of the hippocampus and other formation?
+
+The final slide I want to show you simply reinforces
+
+that by looking at some imaging studies.
+
+But I will just mean the time link to go
+
+through that yourself.
+
+Q Would you like to just come down and help
+
+people understand what we want you to do during your
+
+reading week?
+
+So thanks for that.
+
+I hope we've both understood it.
+
+Something about emotions and the brain.
+
+I can't tell you about life, but we can tell
+
+you about one of those things anyway, right?
+
+Q Do.
+
+You think you're going to find something to that.
+
+Effect?
+
+I don't think.
+
+So, but I'm just going to take us through the
+
+process of feedback for this module.
+
+Before I do that, I just would like to take
+
+on you had this lecture and it could take good
+
+care of your brain and your amygdala otherwise ends up
+
+in lots of dangerous situations.
+
+Has anyone seen Die Another Day?
+
+Great James Bond film from the mid-nineties.
+
+Robert Carlyle.
+
+Okay, can watch that.
+
+Yeah.
+
+So the best thing most I think if we see
+
+one of these patients who has no MC to their
+
+fitness emerges loving, playing dangerous snakes and tarantulas and whatever,
+
+there's there's this lack of inhibition and we'll be picking
+
+up that topic in lectures following this.
+
+And the memory system is sound is just getting onto
+
+memory at the end there.
+
+And we'll be looking at methods where they've been able
+
+to implant false memories into rats brains, where they can
+
+turn on the memory, the flash of light, using that
+
+fear conditioning approach and make rats afraid of places that
+
+are completely normal, but they've just inserted false memories.
+
+So we'll come back to that as the great play
+
+into that memory circuits.
+
+So this is the Moodle page for the module.
+
+Just highlighting that we think is yeah.
+
+The different modes.
+
+You can do it.
+
+It's fantastic.
+
+Exactly.
+
+Because a lot of hidden material behind the lectures.
+
+Okay, so there's a keep in touch and we've been
+
+able to look.
+
+At these.
+
+Questions here and we put announcements there and we've got
+
+questions.
+
+People have put in great questions and we'll try to
+
+respond to those through the announcements page.
+
+This is for general questions.
+
+If something comes to you and you want to ask
+
+a general question about the course, feel free to throw
+
+a question into that for each the each of the
+
+weeks from, let's say further onwards is a a at
+
+the end of this fits with this class times is
+
+reading and there.
+
+Are.
+
+Questions about lectures to feel free against remind everyone if
+
+you have a question that pops up after reading maybe
+
+in the middle of reading week or reading material and
+
+you think, Oh, looking back at lectures for next week
+
+for don't post the question in to that.
+
+I will respond to that.
+
+We'll see these.
+
+But really today is the highlight right at the end
+
+is a now exceptional have you would say and we'd
+
+like to get your feedback through the key to have
+
+this continuous module dialogue you still loves acronyms C and
+
+D approach to the.
+
+Module and.
+
+There is now a link to a mental page where
+
+you can go, I want to go.
+
+Now.
+
+Yeah.
+
+It needs to work.
+
+So it's currently sitting in there.
+
+It's still running, but it needs to be updated.
+
+So after this lecture we'll get that functioning.
+
+If you can go in and answer the questions.
+
+Have you understood things?
+
+How do you say what are the things for this
+
+course?
+
+Is that within this large room there are people from
+
+psychology, so you might have different perspectives to people inside
+
+psychology.
+
+It may be useful to get your reflections on this
+
+module compared to other modules you're setting, but it will
+
+be all of the questions.
+
+And that means that you can go in and access
+
+from that link.
+
+In a couple of weeks we'll have another mentor as
+
+you going forwards, more CMC approach, more, more feedback from
+
+you and at the end, surprise, surprise, another mentee page
+
+for feedback.
+
+If you're in any module and I'm sure you're used
+
+to filling out these mentees, but we'd love to hear
+
+from you.
+
+We've had great we've had some useful suggestions on the
+
+page and we'll keep collecting that.
+
+Thank you for all your attendance and enjoying the module.
+
+We'll see you next week.
+
+So there is a lot of great work to do,
+
+but a lot.
+
+Great.
+
+It's a really good question.
+
+It's pretty pretty.
+
+Hard to talk about what's.
+
+Going to.
+
+Happen next week.
+
+Right.
+
+That's because.
+
+It doesn't make.
+
+Sense to.
+
+Keep people from actually able to pick up the phone
+
+call for a living.
+
+Record the next.
+
+It's hard to record the next question.
+
+I found it on the floor of someone to drop
+
+it so we can hand it.
+
+To the psychology man office or.
+
+The main.
+
+Office.
+
+That's the most likely outcome.
+
+Of that discussion.
+
+Yeah, I could just make an announcement.
+
+I mean.
+
+Although if anybody's lost a phone, we found a mobile
+
+phone.
+
+Here, We'll put it in the reception's.
+
+If anybody is walking out and somebody is running back.
+
+That phone will be in the reception for the building.
+
+I mean.
+
+Maybe not so lucky for people who.
+
+Would.
+
+Like.
+
+To see.
+
+Different things.
+
+I do.
+
+Think.
+
+That it's tricky because it's the only way for people
+
+to think that.
+
+That's pretty cool.
+
+I think.
+
+That's absolutely.
+
+Great.
+
+School teaching is not acceptable.
+
+I think things like that.
+
+Very nice to talk to you for a few hours
+
+because sometimes it's a part of the whole.
+
+I want to get some stuff because I don't care
+
+about 15 minutes per 100,000 people.
+
+Because.
+
+People trying to get me to actually try to keep
+
+something that's interesting because I'm focusing.
+
+On you to.
+
+Come to.
+
+You.
+
+Normally you have to start.
+
+To.
+
+Some of.
+
+These private firms to pick these people.
+
+You can.
+
+Make more people want.
+
+To let go.
+
+Why not?
+
+Well, that's.
+
+How.
+
+It lots of things.
+
+You can.
+
+Do about that perspective.
+
+Because unfortunately, it's impossible to get people to look at.
+
+What's going on here.
+
+Yeah, we get really we.
+
+Get feedback to people about the course of events, just
+
+everything updates and you can put that in as a
+
+feedback you'd like.
+
+Stephen That's what I'd like to say.
+
+A lot of.
+
+Students don't want to understand that either, but apparently the
+
+feedback from.
+
+Feedback.
+
+That might.
+
+Be difficult.
+
+For the general nominee is that people get a quick
+
+look at time frames when this happens, but that's a.
+
+Time that it's.
+
+One that might be that may be the case, but
+
+that it's actually you can see back into the things
+
+that we can use that to say, Hey, you look
+
+like you want me to do videos, basically, but.
+
+You don't have.
+
+To do it.
+
+Some of it might take these guys.
+
+Yeah, except this is six years of research.
+
+That's some of.
+
+The material, but not what you want to do to
+
+make.
+
+This work.
+
+Yeah, it's not.
+
+Material.
+
+Why didn't I get a first.
+
+Bite of this?
+
+And I didn't say that.
+
+That's the problem.
+
+It's kind of really happened since, Mr. President.
+
+So I said, Well, I originally said that any on
+
+the day would have been.
+
+The school.
+
+But she's not accepting.
+
+What's been happening in Iraq.
+
+And the way you.
+
+Might.
+
+Have noticed.
+
+The really useful question.
+
+It's good to get feedback about how you doing things
+
+differently, doing something right.
+
+Yeah.
+
+Yeah, I know.
+
+I'm just I'm just hoping that by pinpointing very quickly
+
+that these kind of theories, we do.
+
+Have a lot of people out there who might be
+
+eager.
+
+To meet with individuals, something to discuss how to give
+
+some solutions.
+
+Access We really hate that.
+
+It's the men's lives work, stuff like that.
+
+Yeah, I just.
+
+That because we're not going to make it.
+
+But, you know, I think that there is not much
+
+concern about this because the problem.

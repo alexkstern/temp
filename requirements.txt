@@ -1,0 +1,7 @@
+langchain
+openai
+tiktoken
+datasets
+pypdf
+git+https://github.com/chroma-core/chroma.git@d5be7a66a8f1cb9aef7727c1e519c482dfe9df06 # chroma without torch
+gradio

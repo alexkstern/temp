@@ -1,0 +1,1919 @@
+Hi, everyone.
+
+Do you hear me?
+
+Do you hear me?
+
+Okay.
+
+Hi, everyone.
+
+If you can take your seats and settle down, I
+
+can.
+
+Make some concessions.
+
+Okay.
+
+So today we're going to talk about technologies to treat
+
+neuro disorders.
+
+And this is kind of a follow up of this
+
+week's series of lectures, which is about kind of methods
+
+and techniques that are used for neuroscience in general brain
+
+and behaviour.
+
+So just a bit about myself.
+
+I actually started off as an engineer, which is probably
+
+why they picked me to take this lecture so I
+
+can talk a bit more details about that stuff, but
+
+you won't be examined on that anyway, so.
+
+Okay, so how can we use technology to treat neuro
+
+disorders?
+
+There's basically three main ways in which we can try
+
+and get at this kind of three broad categories.
+
+One is to use it to read from neurones.
+
+So this is something where you can use prosthetic devices
+
+that are controlled by interpreting neural activity or something like
+
+that.
+
+The second is to actually write to neurones.
+
+This is something where we try and look at something
+
+that's happening in the external world and try and write
+
+into right to the subject's brain directly.
+
+And the third is to actually just use it to
+
+control abnormal activity.
+
+So this is something where we have something like a
+
+pacemaker to control abnormal brain activity.
+
+So I'll cover these three during this lecture, mainly focusing
+
+on the first two.
+
+So in terms of the first one, you might have.
+
+So if you're trying to read from neurones, there's three
+
+kind of stages to it in general.
+
+The first thing is we need to be able to
+
+observe neural activity.
+
+So what's happening in the brain?
+
+You want to try and read that first, interpret this
+
+activity, to try to understand, well, what's happened, what's the
+
+kind of process that the individual or the subject is
+
+trying to do?
+
+And finally, then control or manipulate an external device.
+
+So in general, the last bit, which is about controlling
+
+and manipulating external devices, is more of an engineering problem.
+
+So we're not going to get into that.
+
+The main focus is going to be on observing neural
+
+activity, which is something where you need a recording device
+
+and this is kind of using neuroscience to try and
+
+develop these ones.
+
+And then we need to understand this by using some
+
+kind of computational approaches and in combination with an understanding
+
+of what the brain is doing.
+
+Okay.
+
+So what type of activity can actually be used?
+
+I mean, when I talk about observing neural activity.
+
+So this is something you might have covered, Sam Solomon
+
+would have covered in the previous lecture.
+
+The first thing is something like recording spiking activity, which
+
+is the firing of action potentials across a population of
+
+neurones.
+
+This could be either by implanting electrodes into the brain
+
+or reading from peripheral nerves in around the body.
+
+Another technique that could be used is ephemeral, kind of.
+
+Briefly touch upon that.
+
+And finally, something that's broader at a larger scale is
+
+using things like brain oscillations or EEG.
+
+So electro echo or electro cortical grabs, which is something
+
+that Sam would have covered, but it's something where we've
+
+kind of got either an external device or something like
+
+a.
+
+Cat.
+
+That's recording oscillations still.
+
+How do we then use it to how do we
+
+interpret the activity and control a device?
+
+So a third of it, the broadest device, which is
+
+the EEG, it's a non-invasive technique.
+
+So what we record is neural oscillations.
+
+These are brainwaves or from large regions of the brain.
+
+So as you can see this, it's just a.
+
+Cat which.
+
+Is looking at different.
+
+There's multiple electrons placed across the across the head.
+
+And you just basically looking at the electrical activity around
+
+that, around each of those points and using that, you
+
+can slightly localise what's happening in the brain.
+
+So what we can actually interpret is quite coarse because
+
+it's kind of recording from large regions of the brain.
+
+It's not something we can get very specific information about,
+
+but kind of contrasting activities between different regions is something
+
+like left versus right side of the head or the
+
+front in the back.
+
+And so given that it's very coarse measurement, what we
+
+can actually do is get very coarse control over things.
+
+So you can get something like you can get yes,
+
+nuances or something where you can move forward or move
+
+backwards and so on.
+
+So that is going to show an example of this
+
+in action.
+
+So this lecture is going to have a lot of
+
+videos because I think the best way to actually see
+
+what's happening, it's quite dramatic.
+
+But something.
+
+Like 50 different.
+
+Countries in the Middle East.
+
+Okay.
+
+So as you can see, this subject is able to
+
+control the wheelchair based on this new act, based on
+
+this age group that is thinking about something or based
+
+on what he's thinking or what is in this case,
+
+he was moving his head down as well.
+
+Based on what he's doing, he's able to control the
+
+wheelchair.
+
+But know that, you know, this is quite something complex
+
+happening in terms of like going up the stairs and
+
+so on.
+
+Is this probably not being controlled by the by the
+
+device?
+
+Because, as I said, it's quite coarse measurement.
+
+So what he's able to do is something like move
+
+up and down.
+
+They're just moving the wheelchair up and down or maybe
+
+move the wheelchair forwards and backwards.
+
+So there's like some amount of control that he can
+
+have, but that's about it.
+
+There's another this is it's a link to a video
+
+which is probably going to show as an idea.
+
+I know it's for you to watch later.
+
+It's I just put the link up there, but it's
+
+got quite a detailed explanation.
+
+If you're interested of how a group of students from
+
+a school come together to actually build a wheelchair that's
+
+based on EEG.
+
+So it's a group of like I think ten students
+
+and they split the problem up into the various aspects.
+
+So one team is doing kind of the EEG aspect
+
+in the data collection.
+
+One team is each there's like multiple teams doing these
+
+things.
+
+And finally they're able to control a wheelchair based on
+
+just the EEG.
+
+Okay.
+
+So one other thing is, like, this is quite a
+
+cost measurement.
+
+So in some cases what you have is what you
+
+can do is rather than use, try and interpret what
+
+exactly the brain is saying.
+
+So, you know, if you're trying to, you know, grab
+
+something and and do something, it might be quite hard
+
+to interpret that fine scaled action using this such a
+
+coarse measurement.
+
+So what you can do is do some.
+
+Hacks.
+
+And this is an example of that.
+
+To demonstrate how this technology works.
+
+Well, you get some studying nonverbal communication you can do.
+
+A lot of people are learning.
+
+What.
+
+It's like to get a lot of different types of
+
+responses, like the specific one picked up by the victim
+
+or.
+
+And nobody reported.
+
+Well, I that.
+
+Frequency of no.
+
+Except for, you know, the computer interpret the signal to
+
+give the correction some response.
+
+So the reason I picked this video is something where
+
+what they've used is kind of a hack of trying
+
+to control this, trying to get some answers.
+
+So they put this flashing light one a 12 hertz,
+
+one and 13 hertz.
+
+And it's just when you look at a flashing light,
+
+you're visual cortex usually lights up, tries to go between
+
+certain frequencies.
+
+It follows what's happening with the lights.
+
+If it's if it's oscillating, if the light is oscillating,
+
+the visual cortex is going to oscillate in in sync
+
+with that.
+
+And so they're able to just detect what the oscillation
+
+frequency is, and they're using that as kind of a
+
+hack to try and look at like, does a subject
+
+want to go left or right?
+
+So it's kind of a binary answer or.
+
+It's a binary answer and they're able, but it's quite
+
+effective at trying to get this subject who is immobile
+
+to.
+
+You can read their brain in a sentence, as I
+
+said multiple times.
+
+Now the limitation is it's a very close spatial resolution.
+
+It's the amount of information you can get is quite
+
+limited.
+
+So we can now move to another non-invasive technique, which
+
+is MRI.
+
+And you might have heard about this before.
+
+It's something that records blood oxygen levels in the brain.
+
+And we can interpret this based on the activation levels
+
+from different regions of the brain.
+
+And this is kind of going from the very coarse
+
+resolution of a few of multiple millimetres in the EEG
+
+to something more at a millimetre scale or this quite
+
+low temperature resolution.
+
+So you need like hundreds of milliseconds to actually interpret
+
+the activity.
+
+So it's a really cool demonstration that was there a
+
+few years ago.
+
+It has actually gotten a lot better in the recent
+
+years, but here's an example of it.
+
+So let me just explain what this is showing.
+
+So this is the movie that is presented to the
+
+A subject.
+
+This is a variation of that which is just they're
+
+just looking at what are the edges in that image
+
+And this is what is decoded.
+
+So you look at the brain activity in the scanner
+
+and based on the activity of the brain, they actually
+
+just trying to try and decode or guess which movie
+
+was presented based on the brain activity.
+
+So this is.
+
+So.
+
+Yeah.
+
+What's happening there.
+
+But in.
+
+General.
+
+We have to do things.
+
+Okay.
+
+Anyway, in general, what you would see is that as
+
+in this example here, you don't quite get a perfect
+
+match of what the subject is seeing, but you see
+
+some approximation of it.
+
+So it's it's it's decent, but it's it's, it's just
+
+an approximation.
+
+Again, here edges are slightly better in the movie.
+
+If you see the movie, it's usually.
+
+Okay, maybe with back elements.
+
+If you see the movie, you can see that it
+
+doesn't quite always get it right.
+
+There's there's a lot of variations in general.
+
+So one of the major limitations of ephemera is the
+
+fact that it's a huge device.
+
+So this is like it takes usually it takes a
+
+whole room and another room to have like a cooling
+
+system and so on.
+
+So it's something that's not really practical to use as
+
+a day to day device to kind of help treat
+
+or to use as a neural interface.
+
+I really hope the following videos work, but so another
+
+option is to record from periphery nerves.
+
+So this is where it's cool.
+
+So far we've been talking about recording from the central
+
+nervous system, so just the brain as such.
+
+But there's a lot of nerves in the in the
+
+body and sometimes maybe it's more effective or easier to
+
+actually get to the periphery.
+
+There's a few advantages, advantages to this.
+
+The first thing is you don't need to get to
+
+the skull where, you know, implanting anything or interpreting activity
+
+through the skull is actually quite a big challenge.
+
+So you can get across that by recording in the
+
+periphery.
+
+And this is I really hope it works an example.
+
+Okay.
+
+This is an example.
+
+So this particular subject has two kinds of prostheses.
+
+The prosthesis is either controlled by a electrode that is
+
+placed on the surface of his arm and shoulder, or
+
+there's a there's a second option, which is that they
+
+actually implant the electrode into the arm and the aid
+
+record from within the neurone as such.
+
+So the idea this demonstration is basically showing how by
+
+implanting the electrodes into the body, you're able to get
+
+better control because there's a little bit more information.
+
+So as you try to record from outside, the information
+
+is a bit more noisy in terms of as a
+
+recording technique.
+
+So this is an example of him trying to control
+
+holding an egg.
+
+You can see that with the external electrodes he is
+
+able to control it, but he's not able to control
+
+every aspect of it.
+
+And that's something where you can imagine the number of
+
+things that are needed.
+
+So in general, I was talking to you about like.
+
+Yes, nuances in the.
+
+We can just watch this again.
+
+So the surface electrodes.
+
+He's not able to really control it.
+
+Hopefully.
+
+Implanted electrodes and you can see that it's a lot
+
+better.
+
+The fact that he's able to do either just control
+
+the arm is actually quite amazing compared to what we
+
+used to have, where you just have like a phantom
+
+thing which is just attached to the body and you
+
+kind of passively control it.
+
+So in this case, this device is actually integrated into
+
+the kind of the periphery nervous system where the subject
+
+is able to control kind of the action of light,
+
+how much is moving, grabbing something and moving it in
+
+different directions.
+
+So going back a little bit to what I was
+
+saying before with the EEG, it's kind of, yes, the
+
+onesies or maybe for four ounces.
+
+Here again, you've got your recording from various neurones and
+
+you're trying to get a few different quick answers.
+
+In the case of the prosthetic arm, it's how much
+
+you want to press.
+
+How how do you want to grab something?
+
+So if it was just like grab and release, that's
+
+probably something you can get from a surface electrodes.
+
+The more information you have, the more accuracy you can
+
+get at various things.
+
+So that's the general idea of the difference between the
+
+surface electrode and the implanted electrode.
+
+And this kind of holds across various devices.
+
+So the more information you have, the more accuracy you
+
+can have in controlling various things.
+
+So this is just an example of a periphery system.
+
+And here we're recording the neural activity of individual or
+
+sorry, that was the periphery neurones.
+
+And I guess one of the limitations here is that.
+
+But in this particular case, it was pretty clear that
+
+the prosthetic arm was something that just the subject needed.
+
+But if you want to try and control, let's say,
+
+like a wheelchair or something, maybe you don't have access
+
+to these with these nerves.
+
+A lot of these the videos I'm going to show
+
+you next are in paraplegic subjects who really can't actually
+
+control any of their nerves, make them.
+
+So in that case, you need to then go up
+
+and record from the brain directly.
+
+And in this case, what you're able to record is
+
+actually a neural activity from an individual or a collection
+
+of neurones that are in the brain.
+
+And given that you're actually recording from within the brain,
+
+you can now record from a large number of neurones
+
+and you can record spiking activity at a higher temporal
+
+and spatial resolution.
+
+So I just show an example of things that showed
+
+some of this in general.
+
+So this is a braingate system which has been deployed
+
+in human subjects.
+
+This is an example of what the electrode looks like.
+
+So there's like a ten by ten grid of electrodes.
+
+It's about this big you can see in a human
+
+now, and this one is implanted usually within the brains
+
+around the motor cortex or this embedded sensory cortex of
+
+some subjects.
+
+So just to show you.
+
+This is why we call it.
+
+I think I'm showing you a bit of this video
+
+before I like to show this as an example, where
+
+this patient who's.
+
+Out.
+
+Here is abled is controlling an arm using one of
+
+these systems.
+
+And this is an example of her trying to drink
+
+coffee, have a sip of coffee from this.
+
+From above.
+
+By controlling the robotic.
+
+Arm.
+
+Then when you watch the video, you can make note
+
+of the fact that it's around 140 at a time.
+
+Samba was at 140 with in the video.
+
+You can have a look at this later.
+
+But it's something where it's quite moving because it's the
+
+first time she was able to actually actually control something
+
+by herself and then have a sip of of coffee
+
+from there.
+
+One of the things to note and this is like,
+
+as I mentioned, this is a huge engineering feat to
+
+get like an arm, a robotic arm to do something
+
+like this.
+
+So a lot of these technologies are also based on
+
+some very cool engineering that goes into the backflip.
+
+I'm not going to show, if I can, a newer
+
+version of this.
+
+Oh.
+
+Okay.
+
+So in this case, this subject again, it's got this
+
+BrainGate device and very able to browse the Internet.
+
+And usually what that is, is like you've got the
+
+cursor here bottom, it's the other video.
+
+So what this subject is able to do is actually
+
+control the cursor on the monitor.
+
+Then again, by controlling the cursor on the monitor, they're
+
+able to type in an email.
+
+Okay, So this is kind of where this is at.
+
+They're doing a lot of human tests.
+
+But as you can see, it's ethically it's basically something
+
+that you would use for paraplegic patients where they're unable
+
+to use.
+
+There's very few other options for them to actually try
+
+and interact with the world.
+
+So I'm finally going to show you something that's beginning
+
+Looking to the future.
+
+This is a demonstration by model group.
+
+Sorry, let me shut my female.
+
+Yeah.
+
+This is a demonstration from Elon Musk's team that are.
+
+So just to give you an idea of what they've
+
+come up with is as he does, he started a
+
+new company that is trying to revolutionise neuroscience.
+
+But anyways it's debateable.
+
+But one thing that they've definitely been quite successful at
+
+is developing some of these devices.
+
+So what you actually see here is a robotic device
+
+that's used to implant electrodes into the brain.
+
+And the reason for that is they've come up with
+
+this new electrode design, which is quite like what you
+
+saw before in this slide was this kind of device.
+
+Now, this is this, as you can see, the rigid
+
+structure that is placed on the surface of the brain.
+
+Neuralink instead has come up with a new version of
+
+it, of a new design where you've got independently movable
+
+electrodes.
+
+This is something that we usually use in the lab,
+
+but more but not as many simultaneous people.
+
+So they actually put in like about a thousand electrodes
+
+in to try and target individually different brain regions.
+
+And that then goes into this device, which is which
+
+is really tiny.
+
+And that's actually one of the innovations of the company.
+
+It's quite impressive.
+
+It's it's about the size of a coin, maybe like
+
+a pound coin or something like that.
+
+And so it's also quite thin and can it is
+
+within the thickness of the skull.
+
+So for a human skull and in this case they
+
+demonstrated on pigs.
+
+And so it's also within the thickness of a pig's
+
+skull so they can just implant it.
+
+So it's flush with the the surface of the of
+
+the skull.
+
+And another innovation that they came up with is when
+
+you look at the BrainGate videos, you see that there's
+
+this big cord coming out, there's this big device attached
+
+to the head, and then there's a big wire coming
+
+out instead.
+
+The other innovation that the companies come up with is
+
+that they've made everything kind of via Bluetooth.
+
+So it's wireless and so it's just on the skull.
+
+You can actually have.
+
+A go back or.
+
+You can have like the skin cover up that area
+
+once, once everything is done and then everything's going over
+
+wirelessly.
+
+So this is a demonstration of this is.
+
+Actually, this animal actually has.
+
+This animal actually has an electrode implanted in it.
+
+You just don't see any any sign of it.
+
+It's it's moving around really healthy.
+
+And so now this is where they're going to move
+
+it into an area where it can actually get to
+
+wireless signals.
+
+Okay.
+
+So the recording from like thousands of neurones, then each
+
+of these each of these rows here represents the action,
+
+an action potential firing from an individual neurone.
+
+You can see they're able to actually like while the
+
+pig is moving around, you can see looks is.
+
+Happening in real quick signals.
+
+So literally neurones that are out over here and put
+
+them on a virus which is affected here.
+
+Okay.
+
+So I was just going to show you another towards
+
+the end of this video, they're looking at like how
+
+they can interpret the activity.
+
+It's a while that hopefully loads up.
+
+So it's a bit of a weird system.
+
+So one of the things that Neuralink was it's quite
+
+controversial among neuroscientists because they kind of said it is
+
+this big advance.
+
+But in terms of to the neuroscience end of things,
+
+there's actually like a lot of what they've been talking
+
+about is something that we've known, for example, the BrainGate
+
+system, it's been there for over ten years now and
+
+it's something where you can actually decode activity in control
+
+devices.
+
+Okay.
+
+So this is an example.
+
+Of a digital activity.
+
+An example of a pig running on a walking and
+
+a treadmill.
+
+And by recording from the motor areas of the brain,
+
+they're able to actually decode the positions.
+
+I've been reading they're going to look like on that
+
+record.
+
+And we think that the photographs and records submitted.
+
+Okay.
+
+So just this that's just trying to predict various points
+
+on the limbs of the limb of the animal.
+
+And you can see that basically the actual limb position
+
+versus the predicted limb position, it's quite accurately decoded.
+
+So the mission statement of the company is kind of
+
+weird.
+
+They want to have everyone have access to these things,
+
+but that's kind of scary to me to enhance your
+
+brain.
+
+It's scary because you need to put something in the
+
+brain and make a big hole in your skull.
+
+So now they've kind of toned it down.
+
+They're talking about, Oh, we're going to use it for
+
+paraplegic patients.
+
+So they're getting human they're they're kind of getting to
+
+FDA.
+
+I think they've got FDA approval to test in paraplegic
+
+subjects who similar to the BrainGate device.
+
+And so I think that it's pretty cool for that.
+
+I just don't know how they're going to.
+
+Make.
+
+Money off of it like they want to.
+
+But it's a pretty cool tech and lot of innovations
+
+on the engineering end of it in terms of being
+
+able to record neural activity.
+
+Hopefully they bring it back, they send it back to
+
+science.
+
+Right now, everything's closed.
+
+We don't have access to any of these technologies.
+
+Okay.
+
+So the limitations, as you can expect, it's highly invasive.
+
+So again, you need to put these electrodes into the
+
+brain so it's not something that you can do that
+
+easily.
+
+And like I said in the beginning of the Neuralink
+
+thing, you've got this huge robot that they've actually designed
+
+and that's part of their part of their innovation that
+
+they needed to develop this robot to be able to
+
+implant these electrodes.
+
+Okay.
+
+So I've just reviewed a few different ways in which
+
+you can read neural activity.
+
+I'm going to skip ahead now to the second part
+
+of the talk, which is about writing to neurones.
+
+And this is something about transmitting information that a subject
+
+cannot access.
+
+And for this, we kind of.
+
+Rather than go this way, we have to go the
+
+opposite way.
+
+Who would observe or monitor the external events, interpret this
+
+information, and then edit neural activity to send it back
+
+to the brain.
+
+So how can we edit or manipulate activities?
+
+It is generally, there's a few different ways you can
+
+either electrically stimulate neurones.
+
+This is the most common method and this is something
+
+I've been talking about mostly.
+
+And then there's also a possibility of using magnetic stimulation.
+
+It's much more cause they're not that well understood.
+
+It's a very commonly used.
+
+And then more recently, there's something like optical stimulation, where
+
+you use some genetic approaches to make neurones fire when
+
+you shine light at them.
+
+Chemical stimulation is possible, but it's very hard to have
+
+precision in terms of controlling that.
+
+So I'm going to jump straight into cochlear implants, which
+
+is probably the most impressive and most commonly used brain
+
+machine interface.
+
+So this is the issue is that there's loss of
+
+hearing due to some issues in the early stages of
+
+auditory processing and by early stages that's around this region
+
+here before the auditory nerve, there's there's issues that are
+
+happening before the auditory nerve.
+
+So one of the advantages and one of the reasons
+
+why this has been such a success story is because
+
+of the structure of the ear and the auditory nerve,
+
+and that's specifically the cochlear of the.
+
+Of.
+
+The cochlear system.
+
+So this is an example.
+
+This is kind of an illustration of what the cochlear
+
+is, is is this this bit here it's the coined
+
+surface.
+
+And at different parts of the cochlear, the auditory nerves
+
+kind of go along different parts of the cochlear.
+
+And just based on sound frequencies, the way sound travels
+
+through the surface, it attenuates different frequencies at different points.
+
+So it's a beautiful design of evolution and it's the
+
+way it takes advantage.
+
+So you've got the highest frequencies at the outermost point
+
+of this.
+
+So this is around 20 kilohertz and you go down
+
+up until like a 200 hertz region that's at the
+
+apex.
+
+So this is kind of the the structure of the
+
+human cochlear.
+
+I illustrated here where you've got like the different medium
+
+frequency coming into the middle and then the lowest frequency
+
+waves reaching all the way to the apex so that
+
+the auditory nerves kind of in a way, different regions
+
+of this.
+
+And so in a sense, what this the advantage of
+
+this is this has brought all of auditory processing, which
+
+is quite a complicated process into a single one dimensional
+
+axis here.
+
+So this is one long.
+
+So if you stretch out this coil, it's basically one
+
+thing, one long stretch of tissue.
+
+And the advantage now is that if you estimate a
+
+different point of this tissue, they're able to generate different
+
+perceptions of different sounds.
+
+And that's what is taken advantage by the cochlear devices.
+
+They have a device that goes all along this.
+
+Coil and.
+
+It can stimulate different portions of this.
+
+So this is what a cochlear system would look like.
+
+So on the external side of things, you've got a
+
+recording device that this is something that's recording sounds from
+
+the outside and it's kind of doing some amount of
+
+processing of those sounds and then transmitting this to a
+
+transmitter that's on the surface of the of the skull.
+
+And then internally you've got a receiving device that's there
+
+just just on the inside of that.
+
+And then you've got another kind of stimulator or kind
+
+of a processor there and then goes into this coil
+
+device that going all along the cochlear.
+
+And you can see there's these different bits here.
+
+These are like the electrode sites and this is the
+
+electrodes that are able to kind of the cross currents
+
+to stimulate different portions of the of the cochlea.
+
+And by stimulating different parts of the cochlea, they stimulate
+
+different sound levels and different sounds.
+
+And so by having like a nice simple linear transformation
+
+and then because it's an electric signal, it's quite fast.
+
+So you can have, you know, as I'm speaking, all
+
+the different frequencies of sound that I'm conveying, are able
+
+to, you can actually process that and get it to
+
+all the different points at a very fast times.
+
+So that's the kind of advantage.
+
+And I'm just going to show you this video here,
+
+which you can watch later.
+
+It's the nice description of a doctor describing how a
+
+cochlear works.
+
+But what I find really moving is this is this
+
+is a documentary.
+
+I would highly recommend watching all of it.
+
+At some point, I'm just going to.
+
+The complete 100% sound science.
+
+What can happen?
+
+I hear what I'm saying and how it sounds because
+
+I know it sounds different.
+
+But this I find that my voice is back to
+
+normal.
+
+Hi.
+
+Makes me 70% or so.
+
+So I usually show a longer plate of the clip.
+
+I just realise it's too late.
+
+But if you noticed that her voice was changing, she
+
+took out the implant.
+
+And actually, if you saw it from earlier, it progressively
+
+gets worse and worse as she's speaking.
+
+And you can also see her getting not very confident
+
+and as she says, insecure.
+
+And then as soon as she puts it on, the
+
+voice changes completely.
+
+And that's just the fact that she gets this feedback.
+
+Rather than putting our accessibility first.
+
+We want to get people who.
+
+Actually.
+
+Complete 100%.
+
+I'll go back a little bit because.
+
+I think so.
+
+What kind of stuff?
+
+I take it off, so I keep it off for
+
+the more exciting stuff, seems to become more convoluted and
+
+becomes more difficult to think about what they ought to
+
+be something.
+
+You know what I'm saying?
+
+Because I don't think it's a matter of speaking to
+
+the cow when I pick my husband so I can
+
+hear people.
+
+So I'm not even being a complete 100%.
+
+So what's possible?
+
+So I'm a little insecure about what I'm saying because
+
+I know it sounds different.
+
+But the 70 seconds and trying to keep things back
+
+to normal, I think means.
+
+I think that one might have been clearer as you
+
+saw the progression as well as how the design changed.
+
+So you can see it's actually a really for me,
+
+this is probably the biggest success stories of a neural
+
+interface that you.
+
+So you need to have something.
+
+The deftness where it works is something where the auditory
+
+nerve is intact and then like further on, it's able
+
+to it's able to process.
+
+And most of the hearing disabilities come from kind of
+
+early hearing, early stage hearing loss.
+
+So it is quite.
+
+That's why it's so commonly used, because it's kind of
+
+an early stage thing.
+
+So moving on from hearing actually, the next one would
+
+be, well, can we actually then take this into the
+
+eye, which is the other sense.
+
+Organ or.
+
+Something?
+
+So.
+
+So this would be something where if you have loss
+
+of vision at the level of the eyes.
+
+So again, like there's quite a few issues that do
+
+happen at the eye.
+
+I think vision has a broader range of issues happening
+
+in general.
+
+So as I mentioned, the the auditory system had this
+
+nice coiled structure that actually just boiled down to like
+
+a single thing.
+
+So when it comes to the eye, it becomes you've
+
+just added another dimension.
+
+Now things are in 2D, you've got like a 2D
+
+scene that you have.
+
+You could argue that that's there in the auditory system
+
+as well, but at least the amount of information you
+
+can get across with this one dimensional structure is sufficient
+
+for a subject to get a good perception of things.
+
+But with vision, it tends to be a lot harder
+
+because you've got you've got a lot more detail in
+
+structure and we're kind of used to seeing this amount
+
+of detail.
+
+So it becomes harder to and again, you've moved from
+
+a one dimensional structure.
+
+Now you've gone to a flat surface, which is the
+
+retina here, and you've got like a two dimensional structure.
+
+So the general idea of how an implant like this
+
+would work is that you have a camera that's, you
+
+know, subject with bathroom glasses, with a camera attached on
+
+them.
+
+They've got some kind of processing that's happening on an
+
+external unit that then gets transmitted into the device that's
+
+within the eye, and then that goes onto a kind
+
+of a chip that's then this retinal implant that's then
+
+stimulating either electrically or optically.
+
+It's the surface of the retina.
+
+Now, one of the issues with this is that actually
+
+there's a lot of different receptors in the eye.
+
+So it's not just about, you know, on off in
+
+one retina region, you have colours, you have edges, you
+
+have lots of different things.
+
+So what you would get is kind of flashes of
+
+light at different parts of the of your visual field.
+
+So it's not quite detail information that you would, that
+
+we would usually do so wouldn't be able to see
+
+faces or recognise faces but kind of a flash of
+
+image.
+
+So in general I think the target of this is
+
+to help subjects get some amount of information which would
+
+help them with their day to day lives through something
+
+like if you're a child across the road and there's
+
+a car coming, you could flashlight light towards which part
+
+where the car is coming or something like that.
+
+But it's not something where you would be able to
+
+get a subject.
+
+You read a book or something as detailed as that.
+
+So it it is a much more challenging area, are
+
+trying to get a device into the eye.
+
+There's been a lot of attempts at it, but it's
+
+been quite challenging at the same time.
+
+There's also been some issues of the levity of the
+
+implant and how effective they can be and the health
+
+of the surrounding tissue, because it's quite a different tissue
+
+in the eyes.
+
+One other thing.
+
+Yeah, I'll move.
+
+On to another way of writing to nuance.
+
+I'm not going to go into the details of this,
+
+but it's something that would be useful for you all
+
+to be aware of.
+
+So this is something called optogenetic manipulation of the nerve
+
+cell activity.
+
+And this is where.
+
+So I think last week you've got you had a
+
+lecture on neurotransmitters and how things are going between the
+
+membrane of a neurone.
+
+So this is an example of this, the internal area
+
+of the brain of a neurone and the outside.
+
+And there's various proteins that are expressed on the membrane
+
+of a neurone.
+
+So what this was an innovation that was there a
+
+few years ago where they implanted, where they expressed a
+
+protein that's the ion transmitter.
+
+That was when you shine a light on it.
+
+This is actually a Dobson, which is something like what's
+
+in the eye when you shine a light on it.
+
+It then opens this channel and lets various ions through.
+
+And using this technique you're able to get a neurone
+
+to get excited or to get inhibited.
+
+So this is an example where this is kind of
+
+an illustration.
+
+You've got these blue, they're shining a blue light at
+
+different points in time, and every time there's a blue
+
+light you get, you get an action potential.
+
+And then if you use the other kind of hyper
+
+polarising protein you can get, like when you apply a
+
+different kind of the colour of light, you can even
+
+get suppression.
+
+Of.
+
+Firing in neurones.
+
+So this is a general strategy where you can use
+
+the light to activate neurones either in the brain.
+
+And actually this is something that is.
+
+Being tried out even in the eye.
+
+So trying to rather than putting in electrical activity, which
+
+is kind of which damages the tissue as well.
+
+They're trying to put in a a chip that then
+
+just transmits a light pattern onto it.
+
+I'm so not going.
+
+To go into that, but I'm just going to move
+
+on to the next part, which is about controlling abnormal
+
+activity in the brain.
+
+And this is where.
+
+So in general, when you have a normal activity, the
+
+most common method is to try and use prescription drugs
+
+to control abnormal activity or anything except like something invasive.
+
+So these methods that I'm going to talk about are
+
+usually only considered with all the other methods being targeted.
+
+No, we're going to show this slide, which is not
+
+being used, but hopefully not being used anymore.
+
+But, you know, something like in the 1930s where I
+
+used electroconvulsive therapy, the reason I put this up is
+
+this is kind of something maybe that is popular.
+
+You might have seen movies doing this or heard about
+
+something like this where they put a large current between
+
+the between across the brain, which is just causing it
+
+is the large electrical stimulus that is affecting the electrical
+
+activity in the brain.
+
+And that then causes changes in the in the neural
+
+structure.
+
+And that was used.
+
+It induces a seizure.
+
+And the idea was that it would then help relieve
+
+symptoms of mental illness.
+
+So it's highly controversial and there's like severe side effects.
+
+So, you know, it's been covered in popular media quite,
+
+quite a lot.
+
+So I'm sure you can find more information about that.
+
+But it's something that is a historically used technique, but
+
+it's not no longer used.
+
+But I thought it's useful to just talk about things
+
+that are not being used as well.
+
+So it's something that's actually much more effective is and
+
+currently used a lot.
+
+It's deep brain stimulation.
+
+So this is something where you've got electrodes that are
+
+implanted into the brains of an example of you've got
+
+a bilateral implant into two parts.
+
+And it's the common targets include the dynamic nucleus, which
+
+is around there within the brain of the Globus paladins.
+
+That's also another structure.
+
+Both are within the stratum of the brain.
+
+So this is so these are implanted.
+
+You can see these there's like three little points there.
+
+Those are the electrode sites.
+
+And this is then goes into something like a pacemaker
+
+that's placed somewhere in the body, which then can be
+
+recharged and so on.
+
+And that's delivering pulses periodically.
+
+I'm just going to show you a video.
+
+Of how.
+
+This can be quite effective.
+
+I hope this works.
+
+So this is a subject with deep brain stimulation on
+
+and off.
+
+So you can see that.
+
+Yeah.
+
+They just can do some.
+
+Tasks or.
+
+They have this huge tremor that they.
+
+So you can see it's really effective at alleviating some
+
+of the symptoms.
+
+This is a this is a subject with Parkinson's disease.
+
+Another huge success story.
+
+To be honest, I don't think we actually we do
+
+know a little bit about how it works, but some
+
+of it is a bit of a mystery.
+
+It just works.
+
+So that's kind of there's quite a lot of research
+
+going into how how it's being used and how they
+
+can improve the design of it right now.
+
+So yeah, so one of the other things about debate
+
+simulation before I end the lecture is that it is
+
+I think coincidentally it has been doing some research going
+
+into how it might be useful in chronic pain or.
+
+In.
+
+Depression and so on.
+
+So there's some trials happening in trying to use it
+
+in other mental health or other issues, but I think
+
+these are just kind of coincidental where somebody with an
+
+implant might show an elevation of other symptoms.
+
+And so they're exploring these possibilities.
+
+It wouldn't be implanted in a subject unless it's the
+
+last it's kind of like the last choice because it's
+
+quite an invasive technique.
+
+So some advantages of using these simulation techniques is that
+
+while the methods are used as a last resort, there
+
+are some unique advantages.
+
+So they can be spatially very specific regions of the
+
+brain.
+
+So this is pretty clear.
+
+With deep brain stimulation, you get to a specific area
+
+rather than stimulating the whole area by drugs kind of
+
+systemic.
+
+So it goes across the whole grain.
+
+So there's an exception to this where you can maybe
+
+present an L-dopa drug, which is something for Parkinson's, which
+
+goes just to open the magic cells, or there's some
+
+new techniques where you've got some designer drugs, where you
+
+can use some genetics to target specific cell types.
+
+But this is something that's kind of being geared up
+
+for the future.
+
+And the other advantage to this, other than being spatially
+
+specific, is that it can be temporarily specific.
+
+So you could just turn on the stimulation for some
+
+periods of time and run them for short periods.
+
+I haven't really covered this, but there are some trials
+
+in using magnetic transcranial magnetic stimulation, which is the magnet
+
+kind of stimulating and externally.
+
+And there's some attempt to at that using that for
+
+depression and other disorders.
+
+Okay.
+
+So that's that's it for the lecture today thank you
+
+very much.
+
+Invited to take a look at this.
+
+Okay.
+
+Let me just you know I'm for the course.
+
+I guess I'm wondering if it's kind of like it's
+
+a very different kind of question.
+
+And I think it's very.
+
+I didn't recognise.
+
+This.
+
+Right.
+
+My first.
+
+Question was, yeah, you know, they looked like that they
+
+would use classification so they would use.
+
+But I don't think so.
+
+I don't.
+
+Think that's.
+
+It.
+
+But I think a lot.
+
+Of it because that's kind of where.
+
+The question.
+
+I've read about it.
+
+Yeah.
+
+I was wondering.
+
+If you think.
+
+Different stuff and stuff.
+
+Yeah.
+
+Yeah.
+
+Yeah, I think so.
+
+Either it's just people.
+
+People look at the number that people because are looking
+
+for something better not to excavate.
+
+You know.
+
+Some people from different parts of the country or.
+
+But increasingly critical of the United States is going to
+
+get to the point where it looks like you're going
+
+to have to talk to people from different parts.

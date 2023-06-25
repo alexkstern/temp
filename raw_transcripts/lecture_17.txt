@@ -1,0 +1,2205 @@
+Okay, let's let's get started.
+
+Everyone.
+
+Can everyone hear me?
+
+I'm not used to speaking in such a big lecture
+
+theatre.
+
+Okay.
+
+I'm Dan Bender.
+
+I'm the associate professor of Behavioural Neuroscience.
+
+My lab studies sleep, among other things.
+
+And that's what I'm going to talk about today.
+
+I do have to leave at a little bit before
+
+11 for sure.
+
+So if there are any lingering questions, I'll have my
+
+email address over here and you can email me.
+
+But my P.A. soon is operating and I can't miss
+
+her presentation.
+
+So we'll we'll jump right in.
+
+So before I talk about sleep, okay, which is a
+
+very interesting topic, I want to take something.
+
+Go back a little more basic and ask the question,
+
+why do animals have a brain?
+
+Right.
+
+That's that's probably one of the most basic things in
+
+neuroscience.
+
+Why do we have a brain?
+
+And we look through that animal kingdom.
+
+We can see that you have sort of the most
+
+primitive species, such as sponges.
+
+Okay.
+
+And these actually don't have any neurones at all.
+
+Okay.
+
+So the first animals did not have neurones.
+
+It happened some point in evolution.
+
+Okay.
+
+And you see that neurones appear around the time that
+
+jellyfish and similar creatures developed in evolution.
+
+And then if we get to more complex animals, it's
+
+no longer just neurones, but we have ganglia and brain.
+
+Okay.
+
+So it's clusters of neurones working together to do something
+
+that individual neurones can't.
+
+Now, this is where it gets interesting that if we
+
+look at our closest one of our closest invertebrate invertebrate
+
+relatives, the starfish.
+
+So the starfish is closer than roundworms and molluscs and
+
+insects.
+
+It's closer to us than all those other animals.
+
+Starfish actually lost the ganglia.
+
+They lost the brain.
+
+They just have neurones that are connected together in a
+
+ring.
+
+Okay.
+
+Same with sea urchins.
+
+Next time you have uni for sushi, you're thinking you're
+
+eating one of your closest relatives in the invertebrate kingdom.
+
+Now, where it gets very interesting is sea squirts.
+
+The sea squirts actually have a brain in the larval
+
+stage, but then they lose it when they're an adult.
+
+And if we look at sea squirts, it gives us
+
+an answer to the question, Why do we have a
+
+brain?
+
+Okay.
+
+So if we look at a larval sea squirt, it
+
+looks a bit like a tadpole.
+
+It has two little eyes spots.
+
+It has a tail.
+
+It's not a spine, it's not a vertebrate, but it
+
+has a new record, which is, you know, very close
+
+to what vertebrates would have.
+
+And it has a digestive system.
+
+And its main goal and its early life is to
+
+find a nice rock, because once it finds a nice
+
+rock, it's going to attach that rock for the rest
+
+of its life.
+
+And that rock is where it gets all its food
+
+and acts as a filter filtering the water.
+
+So if you place a bad rock, it kind of
+
+sucks, right?
+
+That's the rest of his life.
+
+It's there.
+
+So the thing that's so interesting is that when you're
+
+attached to a rock, why would you need to see
+
+it if a predator was coming?
+
+You can't escape from it.
+
+You're stuck to the rock.
+
+So vision is useless.
+
+Motion is useless, right?
+
+You're just stuck to the rock.
+
+So you're just floating in the water.
+
+So what does a sea squirt do?
+
+It eats its nervous system.
+
+Okay.
+
+It doesn't need it anymore.
+
+It's useful energy.
+
+It digests it.
+
+Okay.
+
+So here's the thing.
+
+If you don't need to move, you don't need to
+
+see.
+
+You don't need a brain.
+
+Okay.
+
+So why do animals have a brain?
+
+Animals need a brain to convert sensation to action.
+
+A jellyfish does that and moves around the water looking
+
+for food.
+
+A sponge doesn't.
+
+It just filters the water.
+
+Doesn't need a brain.
+
+Okay.
+
+Now, this is where it leads to sleep.
+
+Every animal thus far that we know of, if.
+
+If an animal moves, it sleeps.
+
+Okay?
+
+Sleep is a really primitive aspect of the brain.
+
+How do we measure sleep?
+
+Right.
+
+You can't measure it in a jellyfish.
+
+It seems know when you wake it up, it snores.
+
+You have no way of measuring it, you would think.
+
+But it turns out that the most primitive forms of
+
+sleep there is a lack of motion for a prolonged
+
+period of time.
+
+Much like us, there is an elevated threshold to react
+
+to sensory stimulus.
+
+Right.
+
+So if I mention your name now, you're.
+
+You know, you'll look around, right?
+
+You'll hear me.
+
+If you were sleeping in class, you might not unless
+
+I was loud enough.
+
+Right.
+
+Don't worry.
+
+I won't test that out.
+
+The third thing, and this is a bit harder to
+
+test, but you can test in a lot of animals.
+
+There is a rebound after sleep deprivation.
+
+Right.
+
+Which.
+
+Which makes sense.
+
+If I.
+
+If I keep you for three days without sleeping, you're
+
+probably going to fall asleep really, really fast and sleep
+
+for a longer period of time to compensate.
+
+Okay.
+
+So those there is of course, sleep is a lot
+
+more complex.
+
+When you talk about mammals.
+
+But the most basic definition of sleep are these three
+
+things.
+
+So now you can ask the question when you move
+
+up the food chain in evolution, how to sleep in
+
+the animal kingdom.
+
+So let's start with the jellyfish.
+
+This is the upside-down jellyfish.
+
+I believe this was a was an undergraduate project from
+
+a bunch of students, and it got published in Current
+
+biology.
+
+That's the story I heard.
+
+So they had a bunch of jellyfish in an A
+
+tank and they tracked the activity of the jellyfish.
+
+And they found that in the daytime it was moving
+
+a lot.
+
+And the Night-Time it wasn't moving so much.
+
+Now, that does not mean that the animal is sleeping
+
+on its own.
+
+Right.
+
+During this class, some of you might not be moving
+
+a lot.
+
+It doesn't mean that you're sleeping.
+
+Right.
+
+So how can you tell the difference?
+
+So what they did is they perturb the animal so
+
+it couldn't rest.
+
+Okay.
+
+There would be a gust of water coming up.
+
+And every time the animal was sort of, you know,
+
+resting, it would have to move again.
+
+And what they found is that when they perturbed one
+
+night asleep, there was a recovery where there was less
+
+activity than you would expect prior to the perturbation.
+
+Okay.
+
+And even when the animal slept over here, we would
+
+consider sleeping.
+
+There was even less activity.
+
+So it was almost like a like you could say
+
+a deeper sleep.
+
+Now, this is maybe not the same as being able
+
+to record EEG and EMG.
+
+You know, all the signals from the brain of humans
+
+and monitoring their sleep.
+
+But this is the jellyfish, right?
+
+And we're already seeing some basic aspects of sleep here.
+
+Okay.
+
+Remember, they don't have a brain.
+
+They just have neurones.
+
+That's key.
+
+Now, if we go up the food chain to the
+
+fruit fly, which is obviously a lot more complicated than
+
+the jellyfish and its nervous system, we see that the
+
+fruit fly rests more at Night-Time.
+
+You know, lack of movement than in the daytime, which
+
+is already good because usually sleep doesn't have to be
+
+12 hours a night and you're awake 12 hours during
+
+the day.
+
+There are lots of different ways sleep can manifest.
+
+But you do see that there is a preferred time
+
+for the animal to rest.
+
+And what they can test here is also the arousal
+
+threshold that if you, you know, lightly do an air
+
+popper, do something that would preserve the animal.
+
+You have to put more force to get the animal
+
+to wake up.
+
+Okay.
+
+So an animal to move.
+
+So this is one of the key things for sleep.
+
+It's not simply the animals not moving, but it's paying
+
+attention.
+
+And you have to somehow break through.
+
+It's it's an intention to to get through the animal.
+
+Okay.
+
+Now, once we're in the fruit fly.
+
+There is one other thing that's quite cool that you
+
+can start doing that this would be very difficult to
+
+do with the jellyfish, but you can put electrodes in
+
+the brain.
+
+You can tell the animal in a ball so it
+
+walks around and you can actually record neural activity and
+
+combine this with the movement of the animal.
+
+So now you have a way to to not just
+
+look at sleep behaviourally, but look electrophysiological of what's going
+
+on, to see if there are characteristics of neural signals
+
+that that tell you, oh, the animal is sleeping because
+
+you see this animals awake because you see this.
+
+Okay.
+
+Now we're going to go to a larger animal now,
+
+the lizard and the lizard here.
+
+You know, it's it's a vertebrate, first of all.
+
+Right.
+
+It's a lot closer to us.
+
+They definitely sleep.
+
+Okay.
+
+And in the lizard, you start seeing it.
+
+Sleep is not just a homogeneous pattern in the brain.
+
+There's actually two stages.
+
+Now, we don't know if it's exactly like the two
+
+stages of sleep in humans, but it does seem to
+
+be one stage where you have synchronous activity in one
+
+stage where it's less synchronous.
+
+And these seem to oscillate back and forth.
+
+So it's quite different from what you see in other
+
+mammals.
+
+But you already start seeing neural signatures of two different
+
+types of sleep.
+
+And reptiles.
+
+Okay.
+
+Now when you get to birds and mammals, now you
+
+have a more defined sleep pattern.
+
+And this is typically called slow wave sleep and REM
+
+sleep, Slow wave sleep.
+
+You can also call non-REM sleep.
+
+But essentially, when you go to sleep, you fall into
+
+deep sleep.
+
+And you have a lot of this in your early
+
+sleep.
+
+And then you have a little bit of REM sleep.
+
+And then each cycle of sleep, which is about 90
+
+minutes, you have a little bit more REM and a
+
+little bit less slow wave.
+
+Okay.
+
+And by the end of the night, it's mostly REM
+
+sleep.
+
+Okay.
+
+Show of hands.
+
+Do you typically dream in your slow wave sleep or
+
+REM sleep?
+
+Raise your hand if it's slow.
+
+Wave sleep.
+
+Raise your hand in his REM sleep.
+
+Good.
+
+So REM sleep is where you typically dream, but you
+
+can dream also and slowly sleep.
+
+You typically remember your dreams from REM sleep more.
+
+Okay.
+
+So when you're in slow wave sleep and you put
+
+up electrodes so you can record neural activity, you can
+
+see that there's slow oscillations which relate to cortical cortical
+
+communication.
+
+There's spindles which are high oscillation signals that relate to
+
+the thalamus talking to cortex.
+
+And there are also sharp wave ripples, which are extremely
+
+high frequency oscillations in the hippocampus that help it talk
+
+to cortex.
+
+In REM sleep, you see completely different brain activity.
+
+You see theta activity in the hippocampus and you see
+
+tiger waves as well.
+
+Okay.
+
+So if you just were watching the signals coming from
+
+the brain, you could tell if someone is sleeping and
+
+whether it's REM sleep or non REM sleep.
+
+Okay.
+
+And the key thing to remember is REM sleep activity
+
+is very similar to awake activity that is not synchronised
+
+and sort of like all the neurones.
+
+Imagine if the orchestra and there all every instrument is
+
+just practising on its own.
+
+They don't seem coordinated.
+
+Slow wave sleep.
+
+The whole orchestra is going boom, boom, boom together.
+
+And that's what the slow waves are.
+
+Okay, so you have these two different types of sleep.
+
+Now we can look at the animal kingdom to see
+
+how does this type of sleep?
+
+Very right.
+
+Do all animals sleep like us or is there a
+
+lot of variability?
+
+And what you find is that at least with REM
+
+sleep, it is really, really different across the animal kingdom.
+
+So the platypus is the king of REM sleep.
+
+They have 8 hours a night.
+
+We only have two.
+
+Okay.
+
+The dolphin is unfortunately the animal with one of the
+
+least amount of REM sleep.
+
+They have minutes every night.
+
+Okay.
+
+So we know REM sleep is really important.
+
+The same time.
+
+That dolphin is a lot smarter than the platypus.
+
+So it's not really clear why all this extra sleep
+
+a platypus is getting what it gains from us.
+
+Now, if you look at overall sleep times across the
+
+animal kingdom, one thing you notice is that two animals
+
+that are genetically very similar can have very different amounts
+
+of sleep.
+
+So a nice example is the owl monkey below over
+
+here compared to the human right.
+
+We're both primates.
+
+We actually both have the same amount of REM sleep
+
+per night, about 2 hours.
+
+But the owl monkey sleeps 17 hours.
+
+We sleep well.
+
+We're supposed to sleep 8 hours.
+
+It's probably a lot less.
+
+In general, you're staying up late at night, you know,
+
+with your Twitter accounts and bingeing Netflix, like.
+
+Like all of us.
+
+So it's not just genes, right?
+
+There's something else going on.
+
+And it's very likely to be ethology, which means there
+
+are specific constraints on animals, behaviour and habitat.
+
+So, for instance, if you could sleep all day, right,
+
+because you didn't have to worry about food and resources
+
+and other things.
+
+Yeah, maybe.
+
+Maybe over many, many millions of years, you would start
+
+sleeping more, right?
+
+Another thing that's quite buried in the animal kingdom is
+
+unit hemisphere of sleep.
+
+So we sleep with both hemispheres.
+
+At least most of us do.
+
+The dolphins are famous for sleeping with one hemisphere than
+
+the other hemisphere.
+
+And you can see this as they will sort of
+
+circle around when they're sleeping with one side and then
+
+they circle the other direction when they're sleeping with the
+
+other part of their brain.
+
+And they have to do this because.
+
+They need to breathe consciously, so they have to keep
+
+part of their brain on.
+
+Otherwise, they die.
+
+Okay.
+
+So it turns out that it's not just dolphins that
+
+are cool, that there are lots of species that are
+
+capable of this, including birds, water, animals, reptiles.
+
+It's almost that we are the oddballs of the year.
+
+And if you think about it, it's it's quite smart
+
+that you always keep part of your brain on is
+
+if a predator comes or you need to be able
+
+to do something, you would react faster, right?
+
+Or your brain is a bit groggy, but the other
+
+part is awake.
+
+And I mean, I've even heard stories of lizards that
+
+will sleep, you know, with both eyes closed.
+
+But if they sense that there is a predator in
+
+the room, one eye opens and they switch to, you
+
+know, have a third sleep.
+
+So there's probably some flexibility, but a lot of mammals
+
+sleep in or birds will sleep in nests and they
+
+have sort of very safe habitats.
+
+And over time, maybe you have a unit of hemispheric
+
+sleep is not necessary anymore.
+
+And it's not as efficient as sleeping with both hemispheres.
+
+Right.
+
+It takes the dolphin twice as long to sleep because
+
+it have to do one side at a time.
+
+Okay.
+
+It's not just non-REM sleep that is due to hemisphere.
+
+REM sleep requires both hemispheres as far as we can
+
+tell.
+
+So dolphins have a hard time during REM sleep.
+
+Right.
+
+It's like they do.
+
+They have their little dream and then they have to
+
+breathe.
+
+Right.
+
+So that's that's tough.
+
+They're doing this at, you know, seconds or a minute
+
+at a time.
+
+They can hold their breath longer than us.
+
+Fortunately, when we get to the first seal, it's interesting
+
+because the first seal has a behaviour that's more like
+
+terrestrial mammals, but it also lives in the water.
+
+And it turns out that when it's in the water,
+
+you can't do very much REM sleep.
+
+And it also has to sleep with one hemisphere at
+
+a time.
+
+But as soon as it comes to land, then it
+
+says, okay, great.
+
+I don't need to consciously breathe, you know, underwater.
+
+I can have my REM sleep and I can sleep
+
+with both hemispheres and it switches.
+
+So it shows you two really important things.
+
+First, this is the this is much more efficient to
+
+sleep with both hemispheres and to have REM sleep.
+
+At the same time is not essential, right?
+
+It's hard to wrap your head around.
+
+How does an animal get away with not having REM
+
+sleep yet?
+
+As soon as it has an opportunity, it will do
+
+loads of it.
+
+Right.
+
+So it must have a function.
+
+We just don't know what it is.
+
+Okay.
+
+So to sum up so far, all animals with a
+
+brain need to sleep.
+
+As far as we know.
+
+If you discover an animal that doesn't need to sleep,
+
+nature paper, great sleep structure and requirements vary greatly across
+
+different species with different ethology, the habitat, the behaviour, all
+
+of that seems to influence how the animals sleep.
+
+So there is flexibility in what a species can do.
+
+It's not like I'm human.
+
+I have to sleep 8 hours.
+
+But it might take a long time for me to
+
+adapt to then sleep more or sleep less.
+
+So the big question is why is sleep important?
+
+So you have to look at sleep and say this
+
+is the worst possible idea evolution could have come up
+
+with.
+
+Right.
+
+What is your function as a species?
+
+It is to make more of you.
+
+To make more.
+
+Right.
+
+So mating.
+
+You need to get food for energy so you can
+
+do that.
+
+Okay.
+
+So foraging, hunting.
+
+And then there are other animals that are looking for
+
+food, too.
+
+And if they hunt you, you're not going to mate.
+
+Right.
+
+So you need to avoid predation and sleep is one
+
+third of your life and you can't do these essential
+
+things.
+
+So why would why would the brain evolve to take
+
+give you a disadvantage in these things?
+
+You must be getting something in return.
+
+But it's we still don't really understand what we are
+
+getting in return.
+
+And just to emphasise how important sleep is, right.
+
+You would probably say, well, you need food and water
+
+more.
+
+Right.
+
+Well, the world record for no water is 18 days.
+
+Okay.
+
+No food.
+
+74 days.
+
+How long can someone go without sleep, you think?
+
+11 days.
+
+Hey, Randy Gardner.
+
+Hey.
+
+Now it's even possible that part of his brain was
+
+sleeping.
+
+There are some reports of local sleep, but I think
+
+he had problems after this experiment that he performed on
+
+on himself.
+
+And you probably have tested yourself on going one day
+
+without sleep, maybe two.
+
+It's quite difficult.
+
+You don't function well.
+
+But I can tell you, as someone who has young
+
+kids, I went through a lot of sleep deprivation.
+
+You are not the same person.
+
+Okay.
+
+I'm still recovering.
+
+And they have done this as well on on rodents.
+
+And, you know, you put the animal basically on a
+
+on a dish that's rotating.
+
+So the animals not just have to move quickly, but
+
+it it's not continuously awake and where it goes into
+
+the water.
+
+And within 11 to 30 days or so, all the
+
+rats died on this experiment.
+
+Now, one very important thing one can found is that
+
+lack of sleep leads to stress.
+
+And stress has a huge effect on your mental mental
+
+health and well-being.
+
+Okay.
+
+So it's hard to know whether the ability to remove
+
+stress when that's gone, we are in trouble.
+
+And that's why we're having these problems.
+
+Or is it sleep itself?
+
+Okay.
+
+And it's also a vicious circle, as many of you
+
+probably realise that when you're stressed, you can't fall asleep.
+
+When you can't fall asleep.
+
+It will lead to more stress.
+
+Okay.
+
+So sleep is as important as mating, hunting, foraging for
+
+food, avoiding predation.
+
+But we don't know why.
+
+So some ideas.
+
+All of you have been sick at one point.
+
+What?
+
+What do you do?
+
+You go to your bed.
+
+You rest.
+
+You sleep.
+
+You sleep often more.
+
+So there are some benefits to your immune system and
+
+wound healing.
+
+Now, why that is special.
+
+To sleep and not just resting in bed.
+
+There seems to be your immune system does seem to
+
+be synchronised to your sleep cycle and there is probably
+
+a lot more there.
+
+But why that's the case.
+
+Why do you have to be unconscious for your immune
+
+system to kick in and act differently?
+
+We don't know.
+
+Second thing is energy conservation and protection.
+
+So many animals are adapted for hunting or foraging at
+
+night or during the day, but not both.
+
+Okay.
+
+So a good example is, you know, like the nocturnal
+
+primates that you find with these huge eyes.
+
+Right.
+
+Those are great.
+
+In Night-Time, they see much better than we do.
+
+But if you turn the light on, they're like, Oh,
+
+right.
+
+They would not be able to hunt.
+
+And in fact, they would be a danger of predation.
+
+So the best thing they can do is just hide
+
+right here during the day, hunt at night.
+
+But that still doesn't answer the question.
+
+Why do they have to be asleep?
+
+Why can't they just, you know, hang out in their
+
+their cubby-hole and just wait for the right time?
+
+The next idea is homeostasis.
+
+So when you're learning, hopefully today you're learning or your
+
+neurones are building new synapses, the synapses are getting stronger.
+
+But if you do that again and again and again,
+
+there might be some negative effects of scaling up your
+
+synapses too much.
+
+So during sleep, it's thought that there is a homeostatic
+
+mechanism that rebalances things, that things don't go too high
+
+or too low.
+
+And while still maintaining the changes that occurred during learning.
+
+Okay.
+
+Fourth is what's called the washing machine hypothesis that when
+
+you sleep, your brain is able to get rid of
+
+all the crap that's built up.
+
+Okay.
+
+So what do I mean by that?
+
+Well, if you look at amyloid beta, right, related to
+
+dementia, humans have a higher risk.
+
+Okay.
+
+If your sleep efficiency goes down.
+
+So if you're not sleeping well, you have more build-up
+
+of these toxins, which then can lead to dementia.
+
+Okay.
+
+And another example, you can look at how another thing
+
+related to Alzheimer's and there is a build-up of tell
+
+if someone is sleep deprived.
+
+So every time you're going out and partying all night,
+
+you're like, I don't need to sleep.
+
+I'm young, you're building up towel your brain, okay?
+
+You have a big capacity, you know, for how much
+
+you can have.
+
+But at some point you want to sleep and clear
+
+this stuff out so it doesn't build up over time.
+
+And it's not surprising that as you get older, sleep
+
+quality does decline.
+
+And these are associated with a lot of these sorts
+
+of problems.
+
+Okay.
+
+Now, if we look at the brain, this is with
+
+MRI, you can see that there are ways of activity
+
+happening during sleep.
+
+And when the activity goes up, okay, this happens slowly
+
+up and down when it goes Sorry, when it goes
+
+down.
+
+There is a CSF exchange which you see in blue.
+
+So activities in red, when the activity goes down, the
+
+CSF in the brain gets flushed out.
+
+And with this CSF, we think there are a lot
+
+of toxins that have built up and then it's sort
+
+of replenishes.
+
+So that's a bit like a washing machine, right?
+
+It's sort of flushing the brain out.
+
+And then you have new CSF filling up the region
+
+and this way you're getting rid of stuff.
+
+Okay.
+
+If you don't sleep, maybe this can still happen, but
+
+it seems that it's not as efficient.
+
+And there's something about sleep that is ideal for this
+
+to happen.
+
+Okay.
+
+So I talked to you about four hypotheses.
+
+The fifth one I'll focus on for the rest of
+
+the lecture, because that's what my lab does.
+
+And I know more about that than the other four.
+
+So the fifth hypothesis where there is a lot of
+
+evidence is that sleep is important for memory.
+
+And this idea that your recent memories need to get
+
+backed up to long term storage.
+
+And this has to happen during sleep.
+
+So there are lots of experiments you can find out
+
+in the literature where there is some sort of task.
+
+I mean, there are really dozens and dozens of these
+
+sorts of studies.
+
+On the y axis, you see that there's an improvement
+
+in the task.
+
+And if you've taken a nap after you do the
+
+task, you'll do better than if you didn't take a
+
+nap.
+
+Okay, so sleeping is beneficial At the same time, if
+
+you sleep deprived someone, you'll see that their memory retention
+
+is is not as good.
+
+So sleeping is good and not sleeping.
+
+When you're supposed to sleep, you do worse than you
+
+should.
+
+Okay.
+
+Now, as I said before, not sleeping leads to stress.
+
+And there are you know, there are other factors you
+
+have to examine.
+
+But even when you do these things, sleep seems to
+
+be better beneficial for your memory.
+
+So I told you that sleep is divided into REM
+
+sleep and non REM sleep and mammals and birds.
+
+So what is what do you think is more important
+
+for memory?
+
+Is it the REM sleep or the non REM sleep?
+
+Ram.
+
+Raise your hand if it's Ram.
+
+Raise your hand if it's non-REM.
+
+Okay.
+
+A couple brave souls.
+
+Good.
+
+So here's a task.
+
+I'll answer the question in a second.
+
+Here's a task where someone has to remember the location
+
+of different different dots on the screen.
+
+And while they're doing the task, they smell this odour
+
+in the background.
+
+Okay.
+
+I believe it's not a very good odour, but it's
+
+for the purpose of getting their attention and making that
+
+association.
+
+And then when they go to sleep, they can present
+
+that odour while they're sleeping.
+
+And the idea is because the olfactory bulb has direct
+
+connections to the campus, that smell is going to activate
+
+neurones and remind the brain, the hippocampus over here, which
+
+is active during sleep, reminding the hippocampus that, oh, this
+
+is what you were doing.
+
+Think about this memory and perhaps bias your your your
+
+memory processing towards the task rather than all the other
+
+things you did during the day.
+
+So it turns out if you do this during REM
+
+and waking, there is no effect at all on your
+
+memory.
+
+But if you do during slow sleep, if you present
+
+the odour, the performance improves after the sleep session compared
+
+to if there is no odour at all.
+
+Okay.
+
+So this doesn't mean that REM sleep is not important
+
+for memory.
+
+But it seems that slow wave sleep is where this
+
+might this process probably starts.
+
+Okay.
+
+The other thing is this works If you just have
+
+a nap.
+
+And a nap is almost entirely slow wave sleep.
+
+We're non-REM sleep.
+
+Okay.
+
+So you can do these control experiments that even without
+
+any REM sleep, you are benefiting from having having non-REM
+
+sleep.
+
+Okay.
+
+So what do you think is happening during this process?
+
+What?
+
+Why does this work?
+
+So.
+
+The brain is very complicated in lots of different areas.
+
+We're going to focus on the neocortex, which is, you
+
+know, the outside region, all your cortical areas for seeing
+
+and hearing and touch and the hippocampus, which is in
+
+your medial medial temporal lobe.
+
+Okay.
+
+Which is in blue over here.
+
+So it's thought that during non-REM sleep or sorry, prior
+
+to non-REM sleep, when you're awake, cortical activity is happening,
+
+which is representing your whole world.
+
+Right?
+
+It's very much like if I stimulate part of part
+
+of my visual cortex, I'll see a flash of light,
+
+right?
+
+It's not.
+
+What is actually happening out there, is what my brain
+
+is doing that gives me perception.
+
+So all these signals in my brain that are giving
+
+me my conscious experience are being transmitted to the hippocampus.
+
+And the hippocampus is recording this.
+
+Okay.
+
+And when you go to sleep during non-REM sleep, the
+
+hippocampus plays back all these memories.
+
+The cortex, of course, is not as active.
+
+It shouldn't be active at all from the outside world
+
+because your eyes are shut and you're unconscious, but your
+
+brain is actually still very active and your hippocampus talks
+
+to you in your cortex and said, Hey, this is
+
+what you do during the day.
+
+Let's talk about it.
+
+Okay.
+
+And the analogy is that it's very much like your
+
+computer.
+
+You download content during the day when your computer is
+
+on, you're working on it, and then you put your
+
+computer in sleep mode and everything gets backed up to
+
+the cloud.
+
+Okay.
+
+And you have these two modes.
+
+When the computer is active and you're doing stuff, it's
+
+going in one direction.
+
+When your computer is in sleep mode, it can still
+
+be active and can still do stuff when you don't
+
+need the computer.
+
+And it uses that opportunity to back up the data
+
+if it did it while you're working at least, well,
+
+maybe now computers are much faster.
+
+But back in my day, it would slow things down,
+
+right?
+
+So it's better to have these two modes.
+
+So what is the evidence that this is happening?
+
+All of you know H.M.
+
+I don't need to go through the story.
+
+But he had his hippocampus removed to try to stop
+
+the seizures.
+
+And when I said the campus was removed, he suffered
+
+from anterior grade and temporally graded retrograde amnesia for episodic
+
+and semantic memory, which meant he couldn't form new memories,
+
+and his old memories were partially affected.
+
+The further back in time those memories were initially encoded,
+
+the better his memory was, Which means the new experiences
+
+require the hippocampus and hippocampal damage does not erase old
+
+memories.
+
+So if a computer example we just had.
+
+If I take my computer.
+
+Right.
+
+And I don't know, it just blows the fuse.
+
+Doesn't work anymore.
+
+Okay.
+
+Everything.
+
+I backed up to the cloud I still have access
+
+to that's still there.
+
+I can't store new memories.
+
+I can't download content.
+
+I don't have a computer anymore, but I still have
+
+access to the old memories.
+
+And that's what we think the hippocampus is, is for.
+
+Taking new memories and storing it somewhere else.
+
+So the hippocampus is gone.
+
+You just can't do it again.
+
+You can't store new memories.
+
+Okay.
+
+Now, that's in humans.
+
+What happens when we look at rats, right?
+
+We can study neural signals in the brain.
+
+These are experiments I do in my lab.
+
+This video is not from my lab, but we record.
+
+We put electrodes.
+
+Many, many electrodes to record 5000 neurones at the same
+
+time.
+
+And when neurones, when you're listening to neurones, they act
+
+very much like instruments in an orchestra.
+
+They're all doing their thing.
+
+And when they produce the melody together, it's very easy
+
+to recognise they form patterns.
+
+And the question is what are those patterns there they're
+
+forming?
+
+What do those patterns mean?
+
+So.
+
+Okay, so you can hear the sound.
+
+Isn't the sounds of the spikes when you're recording.
+
+What you're seeing is a colour code over here of
+
+the different spikes.
+
+Okay.
+
+And what you find is that when the animals and
+
+when a particular neurone is is responding, it likes a
+
+particular region of the track, the animals running.
+
+So I know I talked about the hippocampus as being
+
+important for memory, and this will come full circle to
+
+that.
+
+But when you're recording in the Rat, it seems like
+
+these neurones act like a GPS.
+
+And so the neurones like one location, another neurone will
+
+like a different location.
+
+And as the animal is running, you have neurone A
+
+and B and C and D firing.
+
+Okay.
+
+And I'll give you a little cartoon over here.
+
+Here's animal running.
+
+And you see the first cell fire, then the the
+
+second, the third, the fourth.
+
+And if you were listening to the brain and you
+
+saw blue, green, red, orange, you say, are the animals
+
+running along this track?
+
+Hey, I know what the animal is doing.
+
+But then the animal goes to sleep and you see
+
+the same neurones fire in the same sequence.
+
+This is a phenomena called replay.
+
+It happens much faster, but it's in the same sequence.
+
+And because this sequence is very unique to both the
+
+track and animal's behaviour and can decode this and say,
+
+we know the animal is thinking about the track and
+
+its sleep.
+
+I don't know if this is a dream.
+
+You can't ask the animal what it's what's the conscious
+
+experience.
+
+Right.
+
+But we can see these patterns are very unique.
+
+They don't happen by chance very easily.
+
+And this seems to reflect what has happened.
+
+So just so you can hear how that sounds.
+
+And remember, that replay event is 5 to 20 times
+
+faster.
+
+So it sounds like all the neurones are fired at
+
+once.
+
+We'll look at the video again.
+
+You're going to see a neurone fire on the bottom,
+
+in the middle, on the left side, on the track.
+
+And when it gets to the corner all the way
+
+on the left, one is rounding.
+
+That's where the replay event will occur.
+
+And I'll I'll tell you when that happens.
+
+So.
+
+So it's running the blue cell fires.
+
+And another the science cell.
+
+Another blue cell.
+
+And here, that was a replay event.
+
+Okay.
+
+And if you saw the cell activity that we play,
+
+there are actually cells active in front of the animal
+
+where it's planning to go.
+
+Okay.
+
+Now.
+
+So the animal is not asleep here.
+
+Okay.
+
+This happens when the animal's awake as well, when it's
+
+sort of tuned out and not running.
+
+You see these replay events, but when the animal goes
+
+to sleep and you're listening to the brain, you hear,
+
+Shh, shh, shh.
+
+And these are all replay events.
+
+Okay.
+
+Yes.
+
+Dear me while I was.
+
+Is the replay as fast.
+
+Yeah.
+
+So when it's asleep and when it's awake.
+
+There are probably differences in the replay, but we don't
+
+really understand those differences.
+
+But the speed is similar.
+
+During REM sleep.
+
+There's one study finding replay.
+
+Okay.
+
+And it's the same speed as the actual experience.
+
+So maybe this is closer to what you have as
+
+a as a as a dream.
+
+The other thing is that during slow wave, sleep is
+
+very fragmented.
+
+So it's like part of the track boom animal replays.
+
+And then one second later, another part of the track,
+
+boom, there's replay.
+
+Okay.
+
+So it's not this.
+
+Imagine a dream is you have this whole storyline that
+
+doesn't seem to be happening here.
+
+Maybe REM sleep does.
+
+Okay.
+
+So you have a behavioural episode.
+
+Animals running along, you know, looking for food on the
+
+track.
+
+This is all getting encoded in your cortex.
+
+It's getting sent to the hippocampus to store.
+
+And then when the animal is not paying attention, you
+
+know, sort of zoning out or sleeping.
+
+We call these offline periods and there's a process of
+
+memory consolidation where the hippocampus backs up this information, the
+
+cortex.
+
+And one reason for this is that the hippocampus learns
+
+things quickly.
+
+Okay.
+
+And it has to decide what are the most important
+
+things to store.
+
+You can't store everything you experience in your brain.
+
+The hippocampus has to make that choice.
+
+So one thing we study in the lab is a
+
+phenomena of memory triage.
+
+Just.
+
+Just like a Annie, right?
+
+You can't help everyone.
+
+You have to rank.
+
+What are the most important cases to see first?
+
+So what are the most important memories?
+
+And during sleep, those get replayed.
+
+So what happens if we disrupt replay so we can
+
+do this by putting electrodes in the brain near the
+
+anterior comissioner?
+
+So the connection between the hippocampi and when we see
+
+this high oscillation, which is called a sharp wave ripple
+
+where replay events occur, we'd give a little pulse and
+
+disrupts neural activity for 100 or 200 milliseconds in the
+
+brain.
+
+And if we time it right, we prevent replay events
+
+from occurring.
+
+Okay.
+
+So we can train the animal on a memory task
+
+involving different arms that are baited.
+
+And when we disrupt replay, we find that the rate
+
+of learning is slower in those animals.
+
+They're still able to learn, but the rate is slower.
+
+And you have to keep in mind that you're blocking
+
+replay just for an hour after the task, and then
+
+the animal can sleep in its own cage after that
+
+normally.
+
+So you're able to disrupt some, but it's not the
+
+perfect experiment where you've blocked all replay that will ever
+
+occur, you know, during the sleep session.
+
+But this is already a hint that replay is important
+
+for learning a memory.
+
+So an experiment that I did a while back rather
+
+than disruption, where you always wonder, maybe I have screwed
+
+something up in the brain by shocking.
+
+Can we do something that is positive?
+
+And so where we improve behaviour or we can bias
+
+activity towards certain memories.
+
+So I train rats on a task where they had
+
+to run to one side if they heard a high
+
+frequency sound, like high notes on the piano, and they
+
+ran to the other side or they heard lower frequency
+
+sounds okay.
+
+So they can do the task and it takes a
+
+while.
+
+Humans are a bit faster.
+
+Rats can learn this in a week to two weeks,
+
+but they learn.
+
+Hey, I hear the sound around this.
+
+I hear that sound runs the other side and they
+
+go to sleep.
+
+And what you would expect if you're recording brain activity
+
+is you would see replay of running to the right
+
+and replay of running to the left right.
+
+These are relevant memories for the animal to learn.
+
+It was getting a reward.
+
+It has to figure out the task.
+
+So you're going to see these replay events.
+
+Now, the question is, if I play sounds associated with
+
+the task, the sound telling the animal to the left,
+
+the sound telling the animal to go right.
+
+Does that affect the replay?
+
+Right.
+
+Just with the like, the old factory cue I showed
+
+you before that influenced the memory.
+
+So potentially, since the brain is still able to hear
+
+sounds, maybe not in exactly the same way you still
+
+hear sound when you're sleeping.
+
+Maybe I can sort of tease the hippocampus to replay
+
+what I wanted to replay.
+
+And that's what I found, that you can you can
+
+have a measure called the mean rate bias, which is
+
+basically you have more activity for these neurones.
+
+If the neurone likes running to the right.
+
+Are those neurones more active for sound?
+
+Are compared to sound.
+
+The sound telling it to go right.
+
+So the blue bar is higher, which means the neurones
+
+are more than neurones unlike to run right respond in
+
+animal runs.
+
+Right are more active when you play sound.
+
+Ah and the neurones that like going left are less
+
+active when you play sound are.
+
+So there seems to be a preference for what replays
+
+when you play a sound.
+
+And what's interesting is that this bias over here persists.
+
+So you might think I play a sound.
+
+I get a replay of just like that.
+
+That's not what happens.
+
+Okay.
+
+You play the sound and you create a state in
+
+the brain for almost 10 seconds where if a replay
+
+event occurs, it is more likely to be in the
+
+direction that is associated with that sound.
+
+Okay.
+
+So you're not causing more replay events.
+
+You were just biasing what will happen when a replay
+
+event occurs?
+
+But as soon as you play another sound, the fact
+
+goes away.
+
+So it seems to be very, very intolerant to say
+
+lots of different things you're doing.
+
+Supplying a sound cue caused a greater reactivation of play
+
+cells associated with that sound for more than 10 seconds,
+
+which was the max tested.
+
+So the summary so far is if you train the
+
+animal to run left for.
+
+A high pitched sound and run rate for a low
+
+pitched sound.
+
+Playing the high pitched sound will cause replays that left
+
+at a low pitch Sound will cause replay to the
+
+right.
+
+If you do this in humans, humans, you don't have
+
+to train them to run right or run less for
+
+just two sounds.
+
+You can do things that are more complicated so you
+
+can have 50 objects.
+
+Each object is the subject has to remember the location
+
+the object should be.
+
+So they're touching on the screen.
+
+Oh, I see the cattle.
+
+I need to press this part of the screen.
+
+And each object is also paired with a sound.
+
+Okay, so you have 50 pictures, sound pairings that the
+
+subject has to remember and during a nap.
+
+So that's only slow wave sleep.
+
+They present half the sounds to the subjects while they're
+
+sleeping.
+
+Okay, So the sounds they present are called the cued
+
+stimuli and the unseen stimuli are they still have a
+
+sound, right?
+
+But those sounds were not played.
+
+Then they test the subjects with acute versus on cued.
+
+Okay.
+
+Importantly, they do not present the sound in the test.
+
+It's only the visual objects and the person has to
+
+remember the location.
+
+And when they do this they see there is less
+
+errors in the cued sound.
+
+So there is learning, there is an improvement in the
+
+cued versus on cued.
+
+So presenting a sound during sleep from the right literature
+
+suggest that we can actually bias what is replaying in
+
+the brain.
+
+And then on top of that, in humans, if you
+
+have presumably more replay of one memory, you have a
+
+better memory than if you're replaying it less.
+
+Okay.
+
+So.
+
+What's the take home message when you study?
+
+Maybe you should have some sounds in the background.
+
+I don't know how robust this is for normal sleep
+
+conditions outside the lab, but if you have test specific
+
+sounds, not music per se, but test specific sounds so
+
+like you have a word you have to remember for,
+
+you know, anatomy.
+
+And then you say, okay, every time I'm thinking about
+
+this word, I'm going to hear the sound that if
+
+you present that sound when you're sleeping, you'll probably remember
+
+the word pairing better.
+
+And so if yes, if you present those sounds while
+
+you're sleeping, you should have a better test performance than
+
+if you just sleep on it on your own.
+
+Now, even more important, if you don't sleep, your performance
+
+will definitely be worse.
+
+Okay.
+
+If there is one take home message, you need to
+
+sleep.
+
+And.
+
+This.
+
+This leads us to evidence that more replay leads to
+
+better memories.
+
+This phenomenon of replay, and that's something that we study
+
+in the lab now of how do you manipulate the
+
+amount of replay in a rats or mouse?
+
+And how does this change the performance of the animal?
+
+Okay.
+
+So thanks for your attention.
+
+I have time for a few questions, but.
